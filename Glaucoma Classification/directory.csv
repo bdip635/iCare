@@ -1,0 +1,1302 @@
+,Image,Mask,Class label
+0,Glaucoma Images/G_1_D.jpg,G GT/G_1_GT_D.png,1
+1,Glaucoma Images/G_2_D.jpg,G GT/G_2_GT_D.png,1
+2,Non Glaucoma Images/N_3_D.jpg,N GT/N_3_GT_D.png,0
+3,Glaucoma Images/G_4_D.jpg,G GT/G_4_GT_D.png,1
+4,Glaucoma Images/G_5_D.jpg,G GT/G_5_GT_D.png,1
+5,Glaucoma Images/G_6_D.jpg,G GT/G_6_GT_D.png,1
+6,Glaucoma Images/G_7_D.jpg,G GT/G_7_GT_D.png,1
+7,Non Glaucoma Images/N_8_D.jpg,N GT/N_8_GT_D.png,0
+8,Non Glaucoma Images/N_9_D.jpg,N GT/N_9_GT_D.png,0
+9,Glaucoma Images/G_10_D.jpg,G GT/G_10_GT_D.png,1
+10,Glaucoma Images/G_11_D.jpg,G GT/G_11_GT_D.png,1
+11,Glaucoma Images/G_12_D.jpg,G GT/G_12_GT_D.png,1
+12,Glaucoma Images/G_13_D.jpg,G GT/G_13_GT_D.png,1
+13,Glaucoma Images/G_14_D.jpg,G GT/G_14_GT_D.png,1
+14,Non Glaucoma Images/N_15_D.jpg,N GT/N_15_GT_D.png,0
+15,Non Glaucoma Images/N_16_D.jpg,N GT/N_16_GT_D.png,0
+16,Non Glaucoma Images/N_17_D.jpg,N GT/N_17_GT_D.png,0
+17,Non Glaucoma Images/N_18_D.jpg,N GT/N_18_GT_D.png,0
+18,Glaucoma Images/G_19_D.jpg,G GT/G_19_GT_D.png,1
+19,Glaucoma Images/G_20_D.jpg,G GT/G_20_GT_D.png,1
+20,Non Glaucoma Images/N_21_D.jpg,N GT/N_21_GT_D.png,0
+21,Non Glaucoma Images/N_22_D.jpg,N GT/N_22_GT_D.png,0
+22,Glaucoma Images/G_23_D.jpg,G GT/G_23_GT_D.png,1
+23,Glaucoma Images/G_24_D.jpg,G GT/G_24_GT_D.png,1
+24,Non Glaucoma Images/N_25_D.jpg,N GT/N_25_GT_D.png,0
+25,Non Glaucoma Images/N_26_D.jpg,N GT/N_26_GT_D.png,0
+26,Glaucoma Images/G_27_D.jpg,G GT/G_27_GT_D.png,1
+27,Glaucoma Images/G_28_D.jpg,G GT/G_28_GT_D.png,1
+28,Non Glaucoma Images/N_29_D.jpg,N GT/N_29_GT_D.png,0
+29,Glaucoma Images/G_30_D.jpg,G GT/G_30_GT_D.png,1
+30,Glaucoma Images/G_31_D.jpg,G GT/G_31_GT_D.png,1
+31,Glaucoma Images/G_32_D.jpg,G GT/G_32_GT_D.png,1
+32,Glaucoma Images/G_33_D.jpg,G GT/G_33_GT_D.png,1
+33,Glaucoma Images/G_34_D.jpg,G GT/G_34_GT_D.png,1
+34,Glaucoma Images/G_35_D.jpg,G GT/G_35_GT_D.png,1
+35,Glaucoma Images/G_36_D.jpg,G GT/G_36_GT_D.png,1
+36,Glaucoma Images/G_37_D.jpg,G GT/G_37_GT_D.png,1
+37,Glaucoma Images/G_38_D.jpg,G GT/G_38_GT_D.png,1
+38,Glaucoma Images/G_39_D.jpg,G GT/G_39_GT_D.png,1
+39,Glaucoma Images/G_40_D.jpg,G GT/G_40_GT_D.png,1
+40,Glaucoma Images/G_41_D.jpg,G GT/G_41_GT_D.png,1
+41,Glaucoma Images/G_42_D.jpg,G GT/G_42_GT_D.png,1
+42,Glaucoma Images/G_43_D.jpg,G GT/G_43_GT_D.png,1
+43,Glaucoma Images/G_44_D.jpg,G GT/G_44_GT_D.png,1
+44,Non Glaucoma Images/N_45_D.jpg,N GT/N_45_GT_D.png,0
+45,Non Glaucoma Images/N_46_D.jpg,N GT/N_46_GT_D.png,0
+46,Non Glaucoma Images/N_47_D.jpg,N GT/N_47_GT_D.png,0
+47,Non Glaucoma Images/N_48_D.jpg,N GT/N_48_GT_D.png,0
+48,Non Glaucoma Images/N_49_D.jpg,N GT/N_49_GT_D.png,0
+49,Non Glaucoma Images/N_50_D.jpg,N GT/N_50_GT_D.png,0
+50,Glaucoma Images/G_51_D.jpg,G GT/G_51_GT_D.png,1
+51,Glaucoma Images/G_52_D.jpg,G GT/G_52_GT_D.png,1
+52,Glaucoma Images/G_53_D.jpg,G GT/G_53_GT_D.png,1
+53,Glaucoma Images/G_54_D.jpg,G GT/G_54_GT_D.png,1
+54,Non Glaucoma Images/N_55_D.jpg,N GT/N_55_GT_D.png,0
+55,Non Glaucoma Images/N_56_D.jpg,N GT/N_56_GT_D.png,0
+56,Glaucoma Images/G_57_D.jpg,G GT/G_57_GT_D.png,1
+57,Non Glaucoma Images/N_58_D.jpg,N GT/N_58_GT_D.png,0
+58,Glaucoma Images/G_59_D.jpg,G GT/G_59_GT_D.png,1
+59,Glaucoma Images/G_60_D.jpg,G GT/G_60_GT_D.png,1
+60,Glaucoma Images/G_61_D.jpg,G GT/G_61_GT_D.png,1
+61,Glaucoma Images/G_62_D.jpg,G GT/G_62_GT_D.png,1
+62,Glaucoma Images/G_63_D.jpg,G GT/G_63_GT_D.png,1
+63,Glaucoma Images/G_64_D.jpg,G GT/G_64_GT_D.png,1
+64,Glaucoma Images/G_65_D.jpg,G GT/G_65_GT_D.png,1
+65,Glaucoma Images/G_66_D.jpg,G GT/G_66_GT_D.png,1
+66,Glaucoma Images/G_67_D.jpg,G GT/G_67_GT_D.png,1
+67,Glaucoma Images/G_68_D.jpg,G GT/G_68_GT_D.png,1
+68,Glaucoma Images/G_69_D.jpg,G GT/G_69_GT_D.png,1
+69,Glaucoma Images/G_70_D.jpg,G GT/G_70_GT_D.png,1
+70,Glaucoma Images/G_71_D.jpg,G GT/G_71_GT_D.png,1
+71,Glaucoma Images/G_72_D.jpg,G GT/G_72_GT_D.png,1
+72,Glaucoma Images/G_73_D.jpg,G GT/G_73_GT_D.png,1
+73,Glaucoma Images/G_74_D.jpg,G GT/G_74_GT_D.png,1
+74,Glaucoma Images/G_75_D.jpg,G GT/G_75_GT_D.png,1
+75,Glaucoma Images/G_76_D.jpg,G GT/G_76_GT_D.png,1
+76,Glaucoma Images/G_77_D.jpg,G GT/G_77_GT_D.png,1
+77,Glaucoma Images/G_78_D.jpg,G GT/G_78_GT_D.png,1
+78,Glaucoma Images/G_79_D.jpg,G GT/G_79_GT_D.png,1
+79,Glaucoma Images/G_80_D.jpg,G GT/G_80_GT_D.png,1
+80,Glaucoma Images/G_81_D.jpg,G GT/G_81_GT_D.png,1
+81,Glaucoma Images/G_82_D.jpg,G GT/G_82_GT_D.png,1
+82,Glaucoma Images/G_83_D.jpg,G GT/G_83_GT_D.png,1
+83,Non Glaucoma Images/N_84_D.jpg,N GT/N_84_GT_D.png,0
+84,Glaucoma Images/G_85_D.jpg,G GT/G_85_GT_D.png,1
+85,Glaucoma Images/G_86_D.jpg,G GT/G_86_GT_D.png,1
+86,Glaucoma Images/G_87_D.jpg,G GT/G_87_GT_D.png,1
+87,Non Glaucoma Images/N_88_D.jpg,N GT/N_88_GT_D.png,0
+88,Glaucoma Images/G_89_D.jpg,G GT/G_89_GT_D.png,1
+89,Glaucoma Images/G_90_D.jpg,G GT/G_90_GT_D.png,1
+90,Glaucoma Images/G_91_D.jpg,G GT/G_91_GT_D.png,1
+91,Non Glaucoma Images/N_92_D.jpg,N GT/N_92_GT_D.png,0
+92,Glaucoma Images/G_93_D.jpg,G GT/G_93_GT_D.png,1
+93,Glaucoma Images/G_94_D.jpg,G GT/G_94_GT_D.png,1
+94,Non Glaucoma Images/N_95_D.jpg,N GT/N_95_GT_D.png,0
+95,Non Glaucoma Images/N_96_D.jpg,N GT/N_96_GT_D.png,0
+96,Non Glaucoma Images/N_97_D.jpg,N GT/N_97_GT_D.png,0
+97,Non Glaucoma Images/N_98_D.jpg,N GT/N_98_GT_D.png,0
+98,Non Glaucoma Images/N_99_D.jpg,N GT/N_99_GT_D.png,0
+99,Non Glaucoma Images/N_100_D.jpg,N GT/N_100_GT_D.png,0
+100,Non Glaucoma Images/N_101_D.jpg,N GT/N_101_GT_D.png,0
+101,Non Glaucoma Images/N_102_R.jpg,N GT/N_102_GT_R.png,0
+102,Non Glaucoma Images/N_103_R.jpg,N GT/N_103_GT_R.png,0
+103,Non Glaucoma Images/N_104_R.jpg,N GT/N_104_GT_R.png,0
+104,Non Glaucoma Images/N_105_R.jpg,N GT/N_105_GT_R.png,0
+105,Non Glaucoma Images/N_106_R.jpg,N GT/N_106_GT_R.png,0
+106,Glaucoma Images/G_107_R.jpg,G GT/G_107_GT_R.png,1
+107,Non Glaucoma Images/N_108_R.jpg,N GT/N_108_GT_R.png,0
+108,Non Glaucoma Images/N_109_R.jpg,N GT/N_109_GT_R.png,0
+109,Non Glaucoma Images/N_110_R.jpg,N GT/N_110_GT_R.png,0
+110,Non Glaucoma Images/N_111_R.jpg,N GT/N_111_GT_R.png,0
+111,Non Glaucoma Images/N_112_R.jpg,N GT/N_112_GT_R.png,0
+112,Non Glaucoma Images/N_113_R.jpg,N GT/N_113_GT_R.png,0
+113,Non Glaucoma Images/N_114_R.jpg,N GT/N_114_GT_R.png,0
+114,Non Glaucoma Images/N_115_R.jpg,N GT/N_115_GT_R.png,0
+115,Non Glaucoma Images/N_116_R.jpg,N GT/N_116_GT_R.png,0
+116,Non Glaucoma Images/N_117_R.jpg,N GT/N_117_GT_R.png,0
+117,Non Glaucoma Images/N_118_R.jpg,N GT/N_118_GT_R.png,0
+118,Non Glaucoma Images/N_119_R.jpg,N GT/N_119_GT_R.png,0
+119,Non Glaucoma Images/N_120_R.jpg,N GT/N_120_GT_R.png,0
+120,Non Glaucoma Images/N_121_R.jpg,N GT/N_121_GT_R.png,0
+121,Non Glaucoma Images/N_122_R.jpg,N GT/N_122_GT_R.png,0
+122,Non Glaucoma Images/N_123_R.jpg,N GT/N_123_GT_R.png,0
+123,Non Glaucoma Images/N_124_R.jpg,N GT/N_124_GT_R.png,0
+124,Non Glaucoma Images/N_125_R.jpg,N GT/N_125_GT_R.png,0
+125,Non Glaucoma Images/N_126_R.jpg,N GT/N_126_GT_R.png,0
+126,Glaucoma Images/G_127_R.jpg,G GT/G_127_GT_R.png,1
+127,Non Glaucoma Images/N_128_R.jpg,N GT/N_128_GT_R.png,0
+128,Glaucoma Images/G_129_R.jpg,G GT/G_129_GT_R.png,1
+129,Non Glaucoma Images/N_130_R.jpg,N GT/N_130_GT_R.png,0
+130,Non Glaucoma Images/N_131_R.jpg,N GT/N_131_GT_R.png,0
+131,Non Glaucoma Images/N_132_R.jpg,N GT/N_132_GT_R.png,0
+132,Glaucoma Images/G_133_R.jpg,G GT/G_133_GT_R.png,1
+133,Non Glaucoma Images/N_134_R.jpg,N GT/N_134_GT_R.png,0
+134,Non Glaucoma Images/N_135_R.jpg,N GT/N_135_GT_R.png,0
+135,Non Glaucoma Images/N_136_R.jpg,N GT/N_136_GT_R.png,0
+136,Non Glaucoma Images/N_137_R.jpg,N GT/N_137_GT_R.png,0
+137,Non Glaucoma Images/N_138_R.jpg,N GT/N_138_GT_R.png,0
+138,Non Glaucoma Images/N_139_R.jpg,N GT/N_139_GT_R.png,0
+139,Non Glaucoma Images/N_140_R.jpg,N GT/N_140_GT_R.png,0
+140,Non Glaucoma Images/N_141_R.jpg,N GT/N_141_GT_R.png,0
+141,Glaucoma Images/G_142_R.jpg,G GT/G_142_GT_R.png,1
+142,Non Glaucoma Images/N_143_R.jpg,N GT/N_143_GT_R.png,0
+143,Non Glaucoma Images/N_144_R.jpg,N GT/N_144_GT_R.png,0
+144,Non Glaucoma Images/N_145_R.jpg,N GT/N_145_GT_R.png,0
+145,Non Glaucoma Images/N_146_R.jpg,N GT/N_146_GT_R.png,0
+146,Glaucoma Images/G_147_R.jpg,G GT/G_147_GT_R.png,1
+147,Non Glaucoma Images/N_148_R.jpg,N GT/N_148_GT_R.png,0
+148,Non Glaucoma Images/N_149_R.jpg,N GT/N_149_GT_R.png,0
+149,Glaucoma Images/G_150_R.jpg,G GT/G_150_GT_R.png,1
+150,Non Glaucoma Images/N_151_R.jpg,N GT/N_151_GT_R.png,0
+151,Non Glaucoma Images/N_152_R.jpg,N GT/N_152_GT_R.png,0
+152,Non Glaucoma Images/N_153_R.jpg,N GT/N_153_GT_R.png,0
+153,Non Glaucoma Images/N_154_R.jpg,N GT/N_154_GT_R.png,0
+154,Glaucoma Images/G_155_R.jpg,G GT/G_155_GT_R.png,1
+155,Non Glaucoma Images/N_156_R.jpg,N GT/N_156_GT_R.png,0
+156,Non Glaucoma Images/N_157_R.jpg,N GT/N_157_GT_R.png,0
+157,Non Glaucoma Images/N_158_R.jpg,N GT/N_158_GT_R.png,0
+158,Non Glaucoma Images/N_159_R.jpg,N GT/N_159_GT_R.png,0
+159,Non Glaucoma Images/N_160_R.jpg,N GT/N_160_GT_R.png,0
+160,Non Glaucoma Images/N_161_R.jpg,N GT/N_161_GT_R.png,0
+161,Non Glaucoma Images/N_162_R.jpg,N GT/N_162_GT_R.png,0
+162,Non Glaucoma Images/N_163_R.jpg,N GT/N_163_GT_R.png,0
+163,Non Glaucoma Images/N_164_R.jpg,N GT/N_164_GT_R.png,0
+164,Non Glaucoma Images/N_165_R.jpg,N GT/N_165_GT_R.png,0
+165,Non Glaucoma Images/N_166_R.jpg,N GT/N_166_GT_R.png,0
+166,Non Glaucoma Images/N_167_R.jpg,N GT/N_167_GT_R.png,0
+167,Non Glaucoma Images/N_168_R.jpg,N GT/N_168_GT_R.png,0
+168,Non Glaucoma Images/N_169_R.jpg,N GT/N_169_GT_R.png,0
+169,Non Glaucoma Images/N_170_R.jpg,N GT/N_170_GT_R.png,0
+170,Non Glaucoma Images/N_171_R.jpg,N GT/N_171_GT_R.png,0
+171,Non Glaucoma Images/N_172_R.jpg,N GT/N_172_GT_R.png,0
+172,Non Glaucoma Images/N_173_R.jpg,N GT/N_173_GT_R.png,0
+173,Non Glaucoma Images/N_174_R.jpg,N GT/N_174_GT_R.png,0
+174,Non Glaucoma Images/N_175_R.jpg,N GT/N_175_GT_R.png,0
+175,Glaucoma Images/G_176_R.jpg,G GT/G_176_GT_R.png,1
+176,Non Glaucoma Images/N_177_R.jpg,N GT/N_177_GT_R.png,0
+177,Non Glaucoma Images/N_178_R.jpg,N GT/N_178_GT_R.png,0
+178,Non Glaucoma Images/N_179_R.jpg,N GT/N_179_GT_R.png,0
+179,Non Glaucoma Images/N_180_R.jpg,N GT/N_180_GT_R.png,0
+180,Non Glaucoma Images/N_181_R.jpg,N GT/N_181_GT_R.png,0
+181,Non Glaucoma Images/N_182_R.jpg,N GT/N_182_GT_R.png,0
+182,Non Glaucoma Images/N_183_R.jpg,N GT/N_183_GT_R.png,0
+183,Non Glaucoma Images/N_184_R.jpg,N GT/N_184_GT_R.png,0
+184,Non Glaucoma Images/N_185_R.jpg,N GT/N_185_GT_R.png,0
+185,Non Glaucoma Images/N_186_R.jpg,N GT/N_186_GT_R.png,0
+186,Non Glaucoma Images/N_187_R.jpg,N GT/N_187_GT_R.png,0
+187,Non Glaucoma Images/N_188_R.jpg,N GT/N_188_GT_R.png,0
+188,Non Glaucoma Images/N_189_R.jpg,N GT/N_189_GT_R.png,0
+189,Non Glaucoma Images/N_190_R.jpg,N GT/N_190_GT_R.png,0
+190,Non Glaucoma Images/N_191_R.jpg,N GT/N_191_GT_R.png,0
+191,Non Glaucoma Images/N_192_R.jpg,N GT/N_192_GT_R.png,0
+192,Non Glaucoma Images/N_193_R.jpg,N GT/N_193_GT_R.png,0
+193,Non Glaucoma Images/N_194_R.jpg,N GT/N_194_GT_R.png,0
+194,Non Glaucoma Images/N_195_R.jpg,N GT/N_195_GT_R.png,0
+195,Glaucoma Images/G_196_R.jpg,G GT/G_196_GT_R.png,1
+196,Non Glaucoma Images/N_197_R.jpg,N GT/N_197_GT_R.png,0
+197,Non Glaucoma Images/N_198_R.jpg,N GT/N_198_GT_R.png,0
+198,Glaucoma Images/G_199_R.jpg,G GT/G_199_GT_R.png,1
+199,Non Glaucoma Images/N_200_R.jpg,N GT/N_200_GT_R.png,0
+200,Glaucoma Images/G_201_R.jpg,G GT/G_201_GT_R.png,1
+201,Non Glaucoma Images/N_202_R.jpg,N GT/N_202_GT_R.png,0
+202,Non Glaucoma Images/N_203_R.jpg,N GT/N_203_GT_R.png,0
+203,Non Glaucoma Images/N_204_R.jpg,N GT/N_204_GT_R.png,0
+204,Non Glaucoma Images/N_205_R.jpg,N GT/N_205_GT_R.png,0
+205,Non Glaucoma Images/N_206_R.jpg,N GT/N_206_GT_R.png,0
+206,Non Glaucoma Images/N_207_R.jpg,N GT/N_207_GT_R.png,0
+207,Non Glaucoma Images/N_208_R.jpg,N GT/N_208_GT_R.png,0
+208,Non Glaucoma Images/N_209_R.jpg,N GT/N_209_GT_R.png,0
+209,Non Glaucoma Images/N_210_R.jpg,N GT/N_210_GT_R.png,0
+210,Non Glaucoma Images/N_211_R.jpg,N GT/N_211_GT_R.png,0
+211,Non Glaucoma Images/N_212_R.jpg,N GT/N_212_GT_R.png,0
+212,Non Glaucoma Images/N_213_R.jpg,N GT/N_213_GT_R.png,0
+213,Non Glaucoma Images/N_214_R.jpg,N GT/N_214_GT_R.png,0
+214,Non Glaucoma Images/N_215_R.jpg,N GT/N_215_GT_R.png,0
+215,Non Glaucoma Images/N_216_R.jpg,N GT/N_216_GT_R.png,0
+216,Non Glaucoma Images/N_217_R.jpg,N GT/N_217_GT_R.png,0
+217,Non Glaucoma Images/N_218_R.jpg,N GT/N_218_GT_R.png,0
+218,Non Glaucoma Images/N_219_R.jpg,N GT/N_219_GT_R.png,0
+219,Non Glaucoma Images/N_220_R.jpg,N GT/N_220_GT_R.png,0
+220,Non Glaucoma Images/N_221_R.jpg,N GT/N_221_GT_R.png,0
+221,Non Glaucoma Images/N_222_R.jpg,N GT/N_222_GT_R.png,0
+222,Non Glaucoma Images/N_223_R.jpg,N GT/N_223_GT_R.png,0
+223,Non Glaucoma Images/N_224_R.jpg,N GT/N_224_GT_R.png,0
+224,Non Glaucoma Images/N_225_R.jpg,N GT/N_225_GT_R.png,0
+225,Glaucoma Images/G_226_R.jpg,G GT/G_226_GT_R.png,1
+226,Non Glaucoma Images/N_227_R.jpg,N GT/N_227_GT_R.png,0
+227,Non Glaucoma Images/N_228_R.jpg,N GT/N_228_GT_R.png,0
+228,Glaucoma Images/G_229_R.jpg,G GT/G_229_GT_R.png,1
+229,Non Glaucoma Images/N_230_R.jpg,N GT/N_230_GT_R.png,0
+230,Non Glaucoma Images/N_231_R.jpg,N GT/N_231_GT_R.png,0
+231,Non Glaucoma Images/N_232_R.jpg,N GT/N_232_GT_R.png,0
+232,Non Glaucoma Images/N_233_R.jpg,N GT/N_233_GT_R.png,0
+233,Non Glaucoma Images/N_234_R.jpg,N GT/N_234_GT_R.png,0
+234,Non Glaucoma Images/N_235_R.jpg,N GT/N_235_GT_R.png,0
+235,Non Glaucoma Images/N_236_R.jpg,N GT/N_236_GT_R.png,0
+236,Non Glaucoma Images/N_237_R.jpg,N GT/N_237_GT_R.png,0
+237,Non Glaucoma Images/N_238_R.jpg,N GT/N_238_GT_R.png,0
+238,Non Glaucoma Images/N_239_R.jpg,N GT/N_239_GT_R.png,0
+239,Non Glaucoma Images/N_240_R.jpg,N GT/N_240_GT_R.png,0
+240,Non Glaucoma Images/N_241_R.jpg,N GT/N_241_GT_R.png,0
+241,Non Glaucoma Images/N_242_R.jpg,N GT/N_242_GT_R.png,0
+242,Non Glaucoma Images/N_243_R.jpg,N GT/N_243_GT_R.png,0
+243,Non Glaucoma Images/N_244_R.jpg,N GT/N_244_GT_R.png,0
+244,Non Glaucoma Images/N_245_R.jpg,N GT/N_245_GT_R.png,0
+245,Non Glaucoma Images/N_246_R.jpg,N GT/N_246_GT_R.png,0
+246,Non Glaucoma Images/N_247_R.jpg,N GT/N_247_GT_R.png,0
+247,Non Glaucoma Images/N_248_R.jpg,N GT/N_248_GT_R.png,0
+248,Non Glaucoma Images/N_249_R.jpg,N GT/N_249_GT_R.png,0
+249,Glaucoma Images/G_250_R.jpg,G GT/G_250_GT_R.png,1
+250,Non Glaucoma Images/N_251_R.jpg,N GT/N_251_GT_R.png,0
+251,Non Glaucoma Images/N_252_R.jpg,N GT/N_252_GT_R.png,0
+252,Non Glaucoma Images/N_253_R.jpg,N GT/N_253_GT_R.png,0
+253,Non Glaucoma Images/N_254_R.jpg,N GT/N_254_GT_R.png,0
+254,Non Glaucoma Images/N_255_R.jpg,N GT/N_255_GT_R.png,0
+255,Non Glaucoma Images/N_256_R.jpg,N GT/N_256_GT_R.png,0
+256,Non Glaucoma Images/N_257_R.jpg,N GT/N_257_GT_R.png,0
+257,Non Glaucoma Images/N_258_R.jpg,N GT/N_258_GT_R.png,0
+258,Non Glaucoma Images/N_259_R.jpg,N GT/N_259_GT_R.png,0
+259,Glaucoma Images/G_260_R.jpg,G GT/G_260_GT_R.png,1
+260,Glaucoma Images/G_261_R.jpg,G GT/G_261_GT_R.png,1
+261,Non Glaucoma Images/N_262_R.jpg,N GT/N_262_GT_R.png,0
+262,Non Glaucoma Images/N_263_R.jpg,N GT/N_263_GT_R.png,0
+263,Non Glaucoma Images/N_264_R.jpg,N GT/N_264_GT_R.png,0
+264,Non Glaucoma Images/N_265_R.jpg,N GT/N_265_GT_R.png,0
+265,Non Glaucoma Images/N_266_R.jpg,N GT/N_266_GT_R.png,0
+266,Non Glaucoma Images/N_267_R.jpg,N GT/N_267_GT_R.png,0
+267,Non Glaucoma Images/N_268_R.jpg,N GT/N_268_GT_R.png,0
+268,Non Glaucoma Images/N_269_R.jpg,N GT/N_269_GT_R.png,0
+269,Non Glaucoma Images/N_270_R.jpg,N GT/N_270_GT_R.png,0
+270,Non Glaucoma Images/N_271_R.jpg,N GT/N_271_GT_R.png,0
+271,Glaucoma Images/G_272_R.jpg,G GT/G_272_GT_R.png,1
+272,Non Glaucoma Images/N_273_R.jpg,N GT/N_273_GT_R.png,0
+273,Non Glaucoma Images/N_274_R.jpg,N GT/N_274_GT_R.png,0
+274,Non Glaucoma Images/N_275_R.jpg,N GT/N_275_GT_R.png,0
+275,Glaucoma Images/G_276_R.jpg,G GT/G_276_GT_R.png,1
+276,Non Glaucoma Images/N_277_R.jpg,N GT/N_277_GT_R.png,0
+277,Non Glaucoma Images/N_278_R.jpg,N GT/N_278_GT_R.png,0
+278,Non Glaucoma Images/N_279_R.jpg,N GT/N_279_GT_R.png,0
+279,Non Glaucoma Images/N_280_R.jpg,N GT/N_280_GT_R.png,0
+280,Non Glaucoma Images/N_281_R.jpg,N GT/N_281_GT_R.png,0
+281,Glaucoma Images/G_282_R.jpg,G GT/G_282_GT_R.png,1
+282,Non Glaucoma Images/N_283_R.jpg,N GT/N_283_GT_R.png,0
+283,Non Glaucoma Images/N_284_R.jpg,N GT/N_284_GT_R.png,0
+284,Non Glaucoma Images/N_285_R.jpg,N GT/N_285_GT_R.png,0
+285,Non Glaucoma Images/N_286_R.jpg,N GT/N_286_GT_R.png,0
+286,Non Glaucoma Images/N_287_R.jpg,N GT/N_287_GT_R.png,0
+287,Non Glaucoma Images/N_288_R.jpg,N GT/N_288_GT_R.png,0
+288,Non Glaucoma Images/N_289_R.jpg,N GT/N_289_GT_R.png,0
+289,Non Glaucoma Images/N_290_R.jpg,N GT/N_290_GT_R.png,0
+290,Non Glaucoma Images/N_291_R.jpg,N GT/N_291_GT_R.png,0
+291,Non Glaucoma Images/N_292_R.jpg,N GT/N_292_GT_R.png,0
+292,Non Glaucoma Images/N_293_R.jpg,N GT/N_293_GT_R.png,0
+293,Non Glaucoma Images/N_294_R.jpg,N GT/N_294_GT_R.png,0
+294,Non Glaucoma Images/N_295_R.jpg,N GT/N_295_GT_R.png,0
+295,Non Glaucoma Images/N_296_R.jpg,N GT/N_296_GT_R.png,0
+296,Non Glaucoma Images/N_297_R.jpg,N GT/N_297_GT_R.png,0
+297,Non Glaucoma Images/N_298_R.jpg,N GT/N_298_GT_R.png,0
+298,Non Glaucoma Images/N_299_R.jpg,N GT/N_299_GT_R.png,0
+299,Non Glaucoma Images/N_300_R.jpg,N GT/N_300_GT_R.png,0
+300,Non Glaucoma Images/N_301_R.jpg,N GT/N_301_GT_R.png,0
+301,Non Glaucoma Images/N_302_R.jpg,N GT/N_302_GT_R.png,0
+302,Non Glaucoma Images/N_303_R.jpg,N GT/N_303_GT_R.png,0
+303,Non Glaucoma Images/N_304_R.jpg,N GT/N_304_GT_R.png,0
+304,Non Glaucoma Images/N_305_R.jpg,N GT/N_305_GT_R.png,0
+305,Glaucoma Images/G_306_R.jpg,G GT/G_306_GT_R.png,1
+306,Non Glaucoma Images/N_307_R.jpg,N GT/N_307_GT_R.png,0
+307,Non Glaucoma Images/N_308_R.jpg,N GT/N_308_GT_R.png,0
+308,Glaucoma Images/G_309_R.jpg,G GT/G_309_GT_R.png,1
+309,Non Glaucoma Images/N_310_R.jpg,N GT/N_310_GT_R.png,0
+310,Non Glaucoma Images/N_311_R.jpg,N GT/N_311_GT_R.png,0
+311,Non Glaucoma Images/N_312_R.jpg,N GT/N_312_GT_R.png,0
+312,Non Glaucoma Images/N_313_R.jpg,N GT/N_313_GT_R.png,0
+313,Non Glaucoma Images/N_314_R.jpg,N GT/N_314_GT_R.png,0
+314,Glaucoma Images/G_315_R.jpg,G GT/G_315_GT_R.png,1
+315,Non Glaucoma Images/N_316_R.jpg,N GT/N_316_GT_R.png,0
+316,Glaucoma Images/G_317_R.jpg,G GT/G_317_GT_R.png,1
+317,Non Glaucoma Images/N_318_R.jpg,N GT/N_318_GT_R.png,0
+318,Non Glaucoma Images/N_319_R.jpg,N GT/N_319_GT_R.png,0
+319,Non Glaucoma Images/N_320_R.jpg,N GT/N_320_GT_R.png,0
+320,Non Glaucoma Images/N_321_R.jpg,N GT/N_321_GT_R.png,0
+321,Non Glaucoma Images/N_322_R.jpg,N GT/N_322_GT_R.png,0
+322,Non Glaucoma Images/N_323_R.jpg,N GT/N_323_GT_R.png,0
+323,Non Glaucoma Images/N_324_R.jpg,N GT/N_324_GT_R.png,0
+324,Non Glaucoma Images/N_325_R.jpg,N GT/N_325_GT_R.png,0
+325,Non Glaucoma Images/N_326_R.jpg,N GT/N_326_GT_R.png,0
+326,Glaucoma Images/G_327_R.jpg,G GT/G_327_GT_R.png,1
+327,Glaucoma Images/G_328_R.jpg,G GT/G_328_GT_R.png,1
+328,Non Glaucoma Images/N_329_R.jpg,N GT/N_329_GT_R.png,0
+329,Non Glaucoma Images/N_330_R.jpg,N GT/N_330_GT_R.png,0
+330,Non Glaucoma Images/N_331_R.jpg,N GT/N_331_GT_R.png,0
+331,Non Glaucoma Images/N_332_R.jpg,N GT/N_332_GT_R.png,0
+332,Non Glaucoma Images/N_333_R.jpg,N GT/N_333_GT_R.png,0
+333,Non Glaucoma Images/N_334_R.jpg,N GT/N_334_GT_R.png,0
+334,Non Glaucoma Images/N_335_R.jpg,N GT/N_335_GT_R.png,0
+335,Non Glaucoma Images/N_336_R.jpg,N GT/N_336_GT_R.png,0
+336,Non Glaucoma Images/N_337_R.jpg,N GT/N_337_GT_R.png,0
+337,Non Glaucoma Images/N_338_R.jpg,N GT/N_338_GT_R.png,0
+338,Non Glaucoma Images/N_339_R.jpg,N GT/N_339_GT_R.png,0
+339,Non Glaucoma Images/N_340_R.jpg,N GT/N_340_GT_R.png,0
+340,Non Glaucoma Images/N_341_R.jpg,N GT/N_341_GT_R.png,0
+341,Non Glaucoma Images/N_342_R.jpg,N GT/N_342_GT_R.png,0
+342,Glaucoma Images/G_343_R.jpg,G GT/G_343_GT_R.png,1
+343,Non Glaucoma Images/N_344_R.jpg,N GT/N_344_GT_R.png,0
+344,Non Glaucoma Images/N_345_R.jpg,N GT/N_345_GT_R.png,0
+345,Non Glaucoma Images/N_346_R.jpg,N GT/N_346_GT_R.png,0
+346,Non Glaucoma Images/N_347_R.jpg,N GT/N_347_GT_R.png,0
+347,Glaucoma Images/G_348_R.jpg,G GT/G_348_GT_R.png,1
+348,Non Glaucoma Images/N_349_R.jpg,N GT/N_349_GT_R.png,0
+349,Non Glaucoma Images/N_350_R.jpg,N GT/N_350_GT_R.png,0
+350,Non Glaucoma Images/N_351_R.jpg,N GT/N_351_GT_R.png,0
+351,Non Glaucoma Images/N_352_R.jpg,N GT/N_352_GT_R.png,0
+352,Glaucoma Images/G_353_R.jpg,G GT/G_353_GT_R.png,1
+353,Non Glaucoma Images/N_354_R.jpg,N GT/N_354_GT_R.png,0
+354,Non Glaucoma Images/N_355_R.jpg,N GT/N_355_GT_R.png,0
+355,Non Glaucoma Images/N_356_R.jpg,N GT/N_356_GT_R.png,0
+356,Non Glaucoma Images/N_357_R.jpg,N GT/N_357_GT_R.png,0
+357,Non Glaucoma Images/N_358_R.jpg,N GT/N_358_GT_R.png,0
+358,Non Glaucoma Images/N_359_R.jpg,N GT/N_359_GT_R.png,0
+359,Non Glaucoma Images/N_360_R.jpg,N GT/N_360_GT_R.png,0
+360,Non Glaucoma Images/N_361_R.jpg,N GT/N_361_GT_R.png,0
+361,Non Glaucoma Images/N_362_R.jpg,N GT/N_362_GT_R.png,0
+362,Non Glaucoma Images/N_363_R.jpg,N GT/N_363_GT_R.png,0
+363,Non Glaucoma Images/N_364_R.jpg,N GT/N_364_GT_R.png,0
+364,Non Glaucoma Images/N_365_R.jpg,N GT/N_365_GT_R.png,0
+365,Non Glaucoma Images/N_366_R.jpg,N GT/N_366_GT_R.png,0
+366,Non Glaucoma Images/N_367_R.jpg,N GT/N_367_GT_R.png,0
+367,Non Glaucoma Images/N_368_R.jpg,N GT/N_368_GT_R.png,0
+368,Non Glaucoma Images/N_369_R.jpg,N GT/N_369_GT_R.png,0
+369,Non Glaucoma Images/N_370_R.jpg,N GT/N_370_GT_R.png,0
+370,Glaucoma Images/G_371_R.jpg,G GT/G_371_GT_R.png,1
+371,Glaucoma Images/G_372_R.jpg,G GT/G_372_GT_R.png,1
+372,Non Glaucoma Images/N_373_R.jpg,N GT/N_373_GT_R.png,0
+373,Non Glaucoma Images/N_374_R.jpg,N GT/N_374_GT_R.png,0
+374,Non Glaucoma Images/N_375_R.jpg,N GT/N_375_GT_R.png,0
+375,Non Glaucoma Images/N_376_R.jpg,N GT/N_376_GT_R.png,0
+376,Non Glaucoma Images/N_377_R.jpg,N GT/N_377_GT_R.png,0
+377,Non Glaucoma Images/N_378_R.jpg,N GT/N_378_GT_R.png,0
+378,Non Glaucoma Images/N_379_R.jpg,N GT/N_379_GT_R.png,0
+379,Non Glaucoma Images/N_380_R.jpg,N GT/N_380_GT_R.png,0
+380,Non Glaucoma Images/N_381_R.jpg,N GT/N_381_GT_R.png,0
+381,Non Glaucoma Images/N_382_R.jpg,N GT/N_382_GT_R.png,0
+382,Non Glaucoma Images/N_383_R.jpg,N GT/N_383_GT_R.png,0
+383,Non Glaucoma Images/N_384_R.jpg,N GT/N_384_GT_R.png,0
+384,Non Glaucoma Images/N_385_R.jpg,N GT/N_385_GT_R.png,0
+385,Glaucoma Images/G_386_R.jpg,G GT/G_386_GT_R.png,1
+386,Non Glaucoma Images/N_387_R.jpg,N GT/N_387_GT_R.png,0
+387,Non Glaucoma Images/N_388_R.jpg,N GT/N_388_GT_R.png,0
+388,Non Glaucoma Images/N_389_R.jpg,N GT/N_389_GT_R.png,0
+389,Non Glaucoma Images/N_390_R.jpg,N GT/N_390_GT_R.png,0
+390,Non Glaucoma Images/N_391_R.jpg,N GT/N_391_GT_R.png,0
+391,Non Glaucoma Images/N_392_R.jpg,N GT/N_392_GT_R.png,0
+392,Non Glaucoma Images/N_393_R.jpg,N GT/N_393_GT_R.png,0
+393,Non Glaucoma Images/N_394_R.jpg,N GT/N_394_GT_R.png,0
+394,Non Glaucoma Images/N_395_R.jpg,N GT/N_395_GT_R.png,0
+395,Non Glaucoma Images/N_396_R.jpg,N GT/N_396_GT_R.png,0
+396,Non Glaucoma Images/N_397_R.jpg,N GT/N_397_GT_R.png,0
+397,Non Glaucoma Images/N_398_R.jpg,N GT/N_398_GT_R.png,0
+398,Non Glaucoma Images/N_399_R.jpg,N GT/N_399_GT_R.png,0
+399,Non Glaucoma Images/N_400_R.jpg,N GT/N_400_GT_R.png,0
+400,Non Glaucoma Images/N_401_R.jpg,N GT/N_401_GT_R.png,0
+401,Non Glaucoma Images/N_402_R.jpg,N GT/N_402_GT_R.png,0
+402,Non Glaucoma Images/N_403_R.jpg,N GT/N_403_GT_R.png,0
+403,Non Glaucoma Images/N_404_R.jpg,N GT/N_404_GT_R.png,0
+404,Non Glaucoma Images/N_405_R.jpg,N GT/N_405_GT_R.png,0
+405,Non Glaucoma Images/N_406_R.jpg,N GT/N_406_GT_R.png,0
+406,Non Glaucoma Images/N_407_R.jpg,N GT/N_407_GT_R.png,0
+407,Non Glaucoma Images/N_408_R.jpg,N GT/N_408_GT_R.png,0
+408,Non Glaucoma Images/N_409_R.jpg,N GT/N_409_GT_R.png,0
+409,Non Glaucoma Images/N_410_R.jpg,N GT/N_410_GT_R.png,0
+410,Non Glaucoma Images/N_411_R.jpg,N GT/N_411_GT_R.png,0
+411,Non Glaucoma Images/N_412_R.jpg,N GT/N_412_GT_R.png,0
+412,Non Glaucoma Images/N_413_R.jpg,N GT/N_413_GT_R.png,0
+413,Non Glaucoma Images/N_414_R.jpg,N GT/N_414_GT_R.png,0
+414,Non Glaucoma Images/N_415_R.jpg,N GT/N_415_GT_R.png,0
+415,Non Glaucoma Images/N_416_R.jpg,N GT/N_416_GT_R.png,0
+416,Non Glaucoma Images/N_417_R.jpg,N GT/N_417_GT_R.png,0
+417,Non Glaucoma Images/N_418_R.jpg,N GT/N_418_GT_R.png,0
+418,Non Glaucoma Images/N_419_R.jpg,N GT/N_419_GT_R.png,0
+419,Glaucoma Images/G_420_R.jpg,G GT/G_420_GT_R.png,1
+420,Non Glaucoma Images/N_421_R.jpg,N GT/N_421_GT_R.png,0
+421,Non Glaucoma Images/N_422_R.jpg,N GT/N_422_GT_R.png,0
+422,Non Glaucoma Images/N_423_R.jpg,N GT/N_423_GT_R.png,0
+423,Non Glaucoma Images/N_424_R.jpg,N GT/N_424_GT_R.png,0
+424,Non Glaucoma Images/N_425_R.jpg,N GT/N_425_GT_R.png,0
+425,Non Glaucoma Images/N_426_R.jpg,N GT/N_426_GT_R.png,0
+426,Non Glaucoma Images/N_427_R.jpg,N GT/N_427_GT_R.png,0
+427,Non Glaucoma Images/N_428_R.jpg,N GT/N_428_GT_R.png,0
+428,Non Glaucoma Images/N_429_R.jpg,N GT/N_429_GT_R.png,0
+429,Non Glaucoma Images/N_430_R.jpg,N GT/N_430_GT_R.png,0
+430,Non Glaucoma Images/N_431_R.jpg,N GT/N_431_GT_R.png,0
+431,Non Glaucoma Images/N_432_R.jpg,N GT/N_432_GT_R.png,0
+432,Non Glaucoma Images/N_433_R.jpg,N GT/N_433_GT_R.png,0
+433,Glaucoma Images/G_434_R.jpg,G GT/G_434_GT_R.png,1
+434,Non Glaucoma Images/N_435_R.jpg,N GT/N_435_GT_R.png,0
+435,Non Glaucoma Images/N_436_R.jpg,N GT/N_436_GT_R.png,0
+436,Non Glaucoma Images/N_437_R.jpg,N GT/N_437_GT_R.png,0
+437,Non Glaucoma Images/N_438_R.jpg,N GT/N_438_GT_R.png,0
+438,Non Glaucoma Images/N_439_R.jpg,N GT/N_439_GT_R.png,0
+439,Non Glaucoma Images/N_440_R.jpg,N GT/N_440_GT_R.png,0
+440,Non Glaucoma Images/N_441_R.jpg,N GT/N_441_GT_R.png,0
+441,Non Glaucoma Images/N_442_R.jpg,N GT/N_442_GT_R.png,0
+442,Glaucoma Images/G_443_R.jpg,G GT/G_443_GT_R.png,1
+443,Non Glaucoma Images/N_444_R.jpg,N GT/N_444_GT_R.png,0
+444,Glaucoma Images/G_445_R.jpg,G GT/G_445_GT_R.png,1
+445,Non Glaucoma Images/N_446_R.jpg,N GT/N_446_GT_R.png,0
+446,Non Glaucoma Images/N_447_R.jpg,N GT/N_447_GT_R.png,0
+447,Glaucoma Images/G_448_R.jpg,G GT/G_448_GT_R.png,1
+448,Non Glaucoma Images/N_449_R.jpg,N GT/N_449_GT_R.png,0
+449,Non Glaucoma Images/N_450_R.jpg,N GT/N_450_GT_R.png,0
+450,Non Glaucoma Images/N_451_R.jpg,N GT/N_451_GT_R.png,0
+451,Non Glaucoma Images/N_452_R.jpg,N GT/N_452_GT_R.png,0
+452,Non Glaucoma Images/N_453_R.jpg,N GT/N_453_GT_R.png,0
+453,Non Glaucoma Images/N_454_R.jpg,N GT/N_454_GT_R.png,0
+454,Non Glaucoma Images/N_455_R.jpg,N GT/N_455_GT_R.png,0
+455,Non Glaucoma Images/N_456_R.jpg,N GT/N_456_GT_R.png,0
+456,Non Glaucoma Images/N_457_R.jpg,N GT/N_457_GT_R.png,0
+457,Non Glaucoma Images/N_458_R.jpg,N GT/N_458_GT_R.png,0
+458,Non Glaucoma Images/N_459_R.jpg,N GT/N_459_GT_R.png,0
+459,Non Glaucoma Images/N_460_R.jpg,N GT/N_460_GT_R.png,0
+460,Non Glaucoma Images/N_461_R.jpg,N GT/N_461_GT_R.png,0
+461,Non Glaucoma Images/N_462_R.jpg,N GT/N_462_GT_R.png,0
+462,Non Glaucoma Images/N_463_R.jpg,N GT/N_463_GT_R.png,0
+463,Non Glaucoma Images/N_464_R.jpg,N GT/N_464_GT_R.png,0
+464,Non Glaucoma Images/N_465_R.jpg,N GT/N_465_GT_R.png,0
+465,Non Glaucoma Images/N_466_R.jpg,N GT/N_466_GT_R.png,0
+466,Non Glaucoma Images/N_467_R.jpg,N GT/N_467_GT_R.png,0
+467,Non Glaucoma Images/N_468_R.jpg,N GT/N_468_GT_R.png,0
+468,Non Glaucoma Images/N_469_R.jpg,N GT/N_469_GT_R.png,0
+469,Non Glaucoma Images/N_470_R.jpg,N GT/N_470_GT_R.png,0
+470,Non Glaucoma Images/N_471_R.jpg,N GT/N_471_GT_R.png,0
+471,Non Glaucoma Images/N_472_R.jpg,N GT/N_472_GT_R.png,0
+472,Non Glaucoma Images/N_473_R.jpg,N GT/N_473_GT_R.png,0
+473,Non Glaucoma Images/N_474_R.jpg,N GT/N_474_GT_R.png,0
+474,Non Glaucoma Images/N_475_R.jpg,N GT/N_475_GT_R.png,0
+475,Non Glaucoma Images/N_476_R.jpg,N GT/N_476_GT_R.png,0
+476,Non Glaucoma Images/N_477_R.jpg,N GT/N_477_GT_R.png,0
+477,Non Glaucoma Images/N_478_R.jpg,N GT/N_478_GT_R.png,0
+478,Non Glaucoma Images/N_479_R.jpg,N GT/N_479_GT_R.png,0
+479,Non Glaucoma Images/N_480_R.jpg,N GT/N_480_GT_R.png,0
+480,Non Glaucoma Images/N_481_R.jpg,N GT/N_481_GT_R.png,0
+481,Non Glaucoma Images/N_482_R.jpg,N GT/N_482_GT_R.png,0
+482,Non Glaucoma Images/N_483_R.jpg,N GT/N_483_GT_R.png,0
+483,Glaucoma Images/G_484_R.jpg,G GT/G_484_GT_R.png,1
+484,Non Glaucoma Images/N_485_R.jpg,N GT/N_485_GT_R.png,0
+485,Glaucoma Images/G_486_R.jpg,G GT/G_486_GT_R.png,1
+486,Non Glaucoma Images/N_487_R.jpg,N GT/N_487_GT_R.png,0
+487,Glaucoma Images/G_488_R.jpg,G GT/G_488_GT_R.png,1
+488,Non Glaucoma Images/N_489_R.jpg,N GT/N_489_GT_R.png,0
+489,Non Glaucoma Images/N_490_R.jpg,N GT/N_490_GT_R.png,0
+490,Non Glaucoma Images/N_491_R.jpg,N GT/N_491_GT_R.png,0
+491,Non Glaucoma Images/N_492_R.jpg,N GT/N_492_GT_R.png,0
+492,Non Glaucoma Images/N_493_R.jpg,N GT/N_493_GT_R.png,0
+493,Non Glaucoma Images/N_494_R.jpg,N GT/N_494_GT_R.png,0
+494,Non Glaucoma Images/N_495_R.jpg,N GT/N_495_GT_R.png,0
+495,Non Glaucoma Images/N_496_R.jpg,N GT/N_496_GT_R.png,0
+496,Non Glaucoma Images/N_497_R.jpg,N GT/N_497_GT_R.png,0
+497,Non Glaucoma Images/N_498_R.jpg,N GT/N_498_GT_R.png,0
+498,Non Glaucoma Images/N_499_R.jpg,N GT/N_499_GT_R.png,0
+499,Non Glaucoma Images/N_500_R.jpg,N GT/N_500_GT_R.png,0
+500,Non Glaucoma Images/N_501_R.jpg,N GT/N_501_GT_R.png,0
+501,Glaucoma Images/G_502_R.jpg,G GT/G_502_GT_R.png,1
+502,Glaucoma Images/G_503_R.jpg,G GT/G_503_GT_R.png,1
+503,Glaucoma Images/G_504_R.jpg,G GT/G_504_GT_R.png,1
+504,Glaucoma Images/G_505_R.jpg,G GT/G_505_GT_R.png,1
+505,Glaucoma Images/G_506_R.jpg,G GT/G_506_GT_R.png,1
+506,Glaucoma Images/G_507_R.jpg,G GT/G_507_GT_R.png,1
+507,Glaucoma Images/G_508_R.jpg,G GT/G_508_GT_R.png,1
+508,Glaucoma Images/G_509_R.jpg,G GT/G_509_GT_R.png,1
+509,Glaucoma Images/G_510_R.jpg,G GT/G_510_GT_R.png,1
+510,Glaucoma Images/G_511_R.jpg,G GT/G_511_GT_R.png,1
+511,Glaucoma Images/G_512_R.jpg,G GT/G_512_GT_R.png,1
+512,Glaucoma Images/G_513_R.jpg,G GT/G_513_GT_R.png,1
+513,Glaucoma Images/G_514_R.jpg,G GT/G_514_GT_R.png,1
+514,Glaucoma Images/G_515_R.jpg,G GT/G_515_GT_R.png,1
+515,Glaucoma Images/G_516_R.jpg,G GT/G_516_GT_R.png,1
+516,Glaucoma Images/G_517_R.jpg,G GT/G_517_GT_R.png,1
+517,Glaucoma Images/G_518_R.jpg,G GT/G_518_GT_R.png,1
+518,Glaucoma Images/G_519_R.jpg,G GT/G_519_GT_R.png,1
+519,Glaucoma Images/G_520_R.jpg,G GT/G_520_GT_R.png,1
+520,Glaucoma Images/G_521_R.jpg,G GT/G_521_GT_R.png,1
+521,Glaucoma Images/G_522_R.jpg,G GT/G_522_GT_R.png,1
+522,Glaucoma Images/G_523_R.jpg,G GT/G_523_GT_R.png,1
+523,Glaucoma Images/G_524_R.jpg,G GT/G_524_GT_R.png,1
+524,Glaucoma Images/G_525_R.jpg,G GT/G_525_GT_R.png,1
+525,Glaucoma Images/G_526_R.jpg,G GT/G_526_GT_R.png,1
+526,Glaucoma Images/G_527_R.jpg,G GT/G_527_GT_R.png,1
+527,Glaucoma Images/G_528_R.jpg,G GT/G_528_GT_R.png,1
+528,Glaucoma Images/G_529_R.jpg,G GT/G_529_GT_R.png,1
+529,Glaucoma Images/G_530_R.jpg,G GT/G_530_GT_R.png,1
+530,Glaucoma Images/G_531_R.jpg,G GT/G_531_GT_R.png,1
+531,Glaucoma Images/G_532_R.jpg,G GT/G_532_GT_R.png,1
+532,Glaucoma Images/G_533_R.jpg,G GT/G_533_GT_R.png,1
+533,Glaucoma Images/G_534_R.jpg,G GT/G_534_GT_R.png,1
+534,Glaucoma Images/G_535_R.jpg,G GT/G_535_GT_R.png,1
+535,Glaucoma Images/G_536_R.jpg,G GT/G_536_GT_R.png,1
+536,Glaucoma Images/G_537_R.jpg,G GT/G_537_GT_R.png,1
+537,Glaucoma Images/G_538_R.jpg,G GT/G_538_GT_R.png,1
+538,Glaucoma Images/G_539_R.jpg,G GT/G_539_GT_R.png,1
+539,Glaucoma Images/G_540_R.jpg,G GT/G_540_GT_R.png,1
+540,Glaucoma Images/G_541_R.jpg,G GT/G_541_GT_R.png,1
+541,Non Glaucoma Images/N_542_R.jpg,N GT/N_542_GT_R.png,0
+542,Non Glaucoma Images/N_543_R.jpg,N GT/N_543_GT_R.png,0
+543,Non Glaucoma Images/N_544_R.jpg,N GT/N_544_GT_R.png,0
+544,Non Glaucoma Images/N_545_R.jpg,N GT/N_545_GT_R.png,0
+545,Non Glaucoma Images/N_546_R.jpg,N GT/N_546_GT_R.png,0
+546,Non Glaucoma Images/N_547_R.jpg,N GT/N_547_GT_R.png,0
+547,Non Glaucoma Images/N_548_R.jpg,N GT/N_548_GT_R.png,0
+548,Non Glaucoma Images/N_549_R.jpg,N GT/N_549_GT_R.png,0
+549,Non Glaucoma Images/N_550_R.jpg,N GT/N_550_GT_R.png,0
+550,Non Glaucoma Images/N_551_R.jpg,N GT/N_551_GT_R.png,0
+551,Non Glaucoma Images/N_552_R.jpg,N GT/N_552_GT_R.png,0
+552,Non Glaucoma Images/N_553_R.jpg,N GT/N_553_GT_R.png,0
+553,Non Glaucoma Images/N_554_R.jpg,N GT/N_554_GT_R.png,0
+554,Non Glaucoma Images/N_555_R.jpg,N GT/N_555_GT_R.png,0
+555,Non Glaucoma Images/N_556_R.jpg,N GT/N_556_GT_R.png,0
+556,Non Glaucoma Images/N_557_R.jpg,N GT/N_557_GT_R.png,0
+557,Non Glaucoma Images/N_558_R.jpg,N GT/N_558_GT_R.png,0
+558,Non Glaucoma Images/N_559_R.jpg,N GT/N_559_GT_R.png,0
+559,Non Glaucoma Images/N_560_R.jpg,N GT/N_560_GT_R.png,0
+560,Non Glaucoma Images/N_561_R.jpg,N GT/N_561_GT_R.png,0
+561,Non Glaucoma Images/N_562_R.jpg,N GT/N_562_GT_R.png,0
+562,Non Glaucoma Images/N_563_R.jpg,N GT/N_563_GT_R.png,0
+563,Non Glaucoma Images/N_564_R.jpg,N GT/N_564_GT_R.png,0
+564,Non Glaucoma Images/N_565_R.jpg,N GT/N_565_GT_R.png,0
+565,Non Glaucoma Images/N_566_R.jpg,N GT/N_566_GT_R.png,0
+566,Non Glaucoma Images/N_567_R.jpg,N GT/N_567_GT_R.png,0
+567,Non Glaucoma Images/N_568_R.jpg,N GT/N_568_GT_R.png,0
+568,Non Glaucoma Images/N_569_R.jpg,N GT/N_569_GT_R.png,0
+569,Non Glaucoma Images/N_570_R.jpg,N GT/N_570_GT_R.png,0
+570,Non Glaucoma Images/N_571_R.jpg,N GT/N_571_GT_R.png,0
+571,Non Glaucoma Images/N_572_R.jpg,N GT/N_572_GT_R.png,0
+572,Non Glaucoma Images/N_573_R.jpg,N GT/N_573_GT_R.png,0
+573,Non Glaucoma Images/N_574_R.jpg,N GT/N_574_GT_R.png,0
+574,Non Glaucoma Images/N_575_R.jpg,N GT/N_575_GT_R.png,0
+575,Non Glaucoma Images/N_576_R.jpg,N GT/N_576_GT_R.png,0
+576,Non Glaucoma Images/N_577_R.jpg,N GT/N_577_GT_R.png,0
+577,Non Glaucoma Images/N_578_R.jpg,N GT/N_578_GT_R.png,0
+578,Non Glaucoma Images/N_579_R.jpg,N GT/N_579_GT_R.png,0
+579,Non Glaucoma Images/N_580_R.jpg,N GT/N_580_GT_R.png,0
+580,Non Glaucoma Images/N_581_R.jpg,N GT/N_581_GT_R.png,0
+581,Non Glaucoma Images/N_582_R.jpg,N GT/N_582_GT_R.png,0
+582,Non Glaucoma Images/N_583_R.jpg,N GT/N_583_GT_R.png,0
+583,Non Glaucoma Images/N_584_R.jpg,N GT/N_584_GT_R.png,0
+584,Non Glaucoma Images/N_585_R.jpg,N GT/N_585_GT_R.png,0
+585,Non Glaucoma Images/N_586_R.jpg,N GT/N_586_GT_R.png,0
+586,Non Glaucoma Images/N_587_R.jpg,N GT/N_587_GT_R.png,0
+587,Non Glaucoma Images/N_588_R.jpg,N GT/N_588_GT_R.png,0
+588,Non Glaucoma Images/N_589_R.jpg,N GT/N_589_GT_R.png,0
+589,Non Glaucoma Images/N_590_R.jpg,N GT/N_590_GT_R.png,0
+590,Non Glaucoma Images/N_591_R.jpg,N GT/N_591_GT_R.png,0
+591,Non Glaucoma Images/N_592_R.jpg,N GT/N_592_GT_R.png,0
+592,Non Glaucoma Images/N_593_R.jpg,N GT/N_593_GT_R.png,0
+593,Non Glaucoma Images/N_594_R.jpg,N GT/N_594_GT_R.png,0
+594,Non Glaucoma Images/N_595_R.jpg,N GT/N_595_GT_R.png,0
+595,Non Glaucoma Images/N_596_R.jpg,N GT/N_596_GT_R.png,0
+596,Non Glaucoma Images/N_597_R.jpg,N GT/N_597_GT_R.png,0
+597,Non Glaucoma Images/N_598_R.jpg,N GT/N_598_GT_R.png,0
+598,Non Glaucoma Images/N_599_R.jpg,N GT/N_599_GT_R.png,0
+599,Non Glaucoma Images/N_600_R.jpg,N GT/N_600_GT_R.png,0
+600,Non Glaucoma Images/N_601_R.jpg,N GT/N_601_GT_R.png,0
+601,Non Glaucoma Images/N_602_R.jpg,N GT/N_602_GT_R.png,0
+602,Non Glaucoma Images/N_603_R.jpg,N GT/N_603_GT_R.png,0
+603,Non Glaucoma Images/N_604_R.jpg,N GT/N_604_GT_R.png,0
+604,Non Glaucoma Images/N_605_R.jpg,N GT/N_605_GT_R.png,0
+605,Non Glaucoma Images/N_606_R.jpg,N GT/N_606_GT_R.png,0
+606,Non Glaucoma Images/N_607_R.jpg,N GT/N_607_GT_R.png,0
+607,Non Glaucoma Images/N_608_R.jpg,N GT/N_608_GT_R.png,0
+608,Non Glaucoma Images/N_609_R.jpg,N GT/N_609_GT_R.png,0
+609,Non Glaucoma Images/N_610_R.jpg,N GT/N_610_GT_R.png,0
+610,Non Glaucoma Images/N_611_R.jpg,N GT/N_611_GT_R.png,0
+611,Non Glaucoma Images/N_612_R.jpg,N GT/N_612_GT_R.png,0
+612,Non Glaucoma Images/N_613_R.jpg,N GT/N_613_GT_R.png,0
+613,Non Glaucoma Images/N_614_R.jpg,N GT/N_614_GT_R.png,0
+614,Non Glaucoma Images/N_615_R.jpg,N GT/N_615_GT_R.png,0
+615,Non Glaucoma Images/N_616_R.jpg,N GT/N_616_GT_R.png,0
+616,Non Glaucoma Images/N_617_R.jpg,N GT/N_617_GT_R.png,0
+617,Non Glaucoma Images/N_618_R.jpg,N GT/N_618_GT_R.png,0
+618,Non Glaucoma Images/N_619_R.jpg,N GT/N_619_GT_R.png,0
+619,Non Glaucoma Images/N_620_R.jpg,N GT/N_620_GT_R.png,0
+620,Non Glaucoma Images/N_621_R.jpg,N GT/N_621_GT_R.png,0
+621,Non Glaucoma Images/N_622_R.jpg,N GT/N_622_GT_R.png,0
+622,Non Glaucoma Images/N_623_R.jpg,N GT/N_623_GT_R.png,0
+623,Non Glaucoma Images/N_624_R.jpg,N GT/N_624_GT_R.png,0
+624,Non Glaucoma Images/N_625_R.jpg,N GT/N_625_GT_R.png,0
+625,Non Glaucoma Images/N_626_R.jpg,N GT/N_626_GT_R.png,0
+626,Non Glaucoma Images/N_627_R.jpg,N GT/N_627_GT_R.png,0
+627,Non Glaucoma Images/N_628_R.jpg,N GT/N_628_GT_R.png,0
+628,Non Glaucoma Images/N_629_R.jpg,N GT/N_629_GT_R.png,0
+629,Non Glaucoma Images/N_630_R.jpg,N GT/N_630_GT_R.png,0
+630,Non Glaucoma Images/N_631_R.jpg,N GT/N_631_GT_R.png,0
+631,Non Glaucoma Images/N_632_R.jpg,N GT/N_632_GT_R.png,0
+632,Non Glaucoma Images/N_633_R.jpg,N GT/N_633_GT_R.png,0
+633,Non Glaucoma Images/N_634_R.jpg,N GT/N_634_GT_R.png,0
+634,Non Glaucoma Images/N_635_R.jpg,N GT/N_635_GT_R.png,0
+635,Non Glaucoma Images/N_636_R.jpg,N GT/N_636_GT_R.png,0
+636,Non Glaucoma Images/N_637_R.jpg,N GT/N_637_GT_R.png,0
+637,Non Glaucoma Images/N_638_R.jpg,N GT/N_638_GT_R.png,0
+638,Non Glaucoma Images/N_639_R.jpg,N GT/N_639_GT_R.png,0
+639,Non Glaucoma Images/N_640_R.jpg,N GT/N_640_GT_R.png,0
+640,Non Glaucoma Images/N_641_R.jpg,N GT/N_641_GT_R.png,0
+641,Non Glaucoma Images/N_642_R.jpg,N GT/N_642_GT_R.png,0
+642,Non Glaucoma Images/N_643_R.jpg,N GT/N_643_GT_R.png,0
+643,Non Glaucoma Images/N_644_R.jpg,N GT/N_644_GT_R.png,0
+644,Non Glaucoma Images/N_645_R.jpg,N GT/N_645_GT_R.png,0
+645,Non Glaucoma Images/N_646_R.jpg,N GT/N_646_GT_R.png,0
+646,Non Glaucoma Images/N_647_R.jpg,N GT/N_647_GT_R.png,0
+647,Non Glaucoma Images/N_648_R.jpg,N GT/N_648_GT_R.png,0
+648,Non Glaucoma Images/N_649_R.jpg,N GT/N_649_GT_R.png,0
+649,Non Glaucoma Images/N_650_R.jpg,N GT/N_650_GT_R.png,0
+650,Non Glaucoma Images/N_651_R.jpg,N GT/N_651_GT_R.png,0
+651,Non Glaucoma Images/N_652_R.jpg,N GT/N_652_GT_R.png,0
+652,Non Glaucoma Images/N_653_R.jpg,N GT/N_653_GT_R.png,0
+653,Non Glaucoma Images/N_654_R.jpg,N GT/N_654_GT_R.png,0
+654,Non Glaucoma Images/N_655_R.jpg,N GT/N_655_GT_R.png,0
+655,Non Glaucoma Images/N_656_R.jpg,N GT/N_656_GT_R.png,0
+656,Non Glaucoma Images/N_657_R.jpg,N GT/N_657_GT_R.png,0
+657,Non Glaucoma Images/N_658_R.jpg,N GT/N_658_GT_R.png,0
+658,Non Glaucoma Images/N_659_R.jpg,N GT/N_659_GT_R.png,0
+659,Non Glaucoma Images/N_660_R.jpg,N GT/N_660_GT_R.png,0
+660,Non Glaucoma Images/N_661_R.jpg,N GT/N_661_GT_R.png,0
+661,Non Glaucoma Images/N_662_R.jpg,N GT/N_662_GT_R.png,0
+662,Non Glaucoma Images/N_663_R.jpg,N GT/N_663_GT_R.png,0
+663,Non Glaucoma Images/N_664_R.jpg,N GT/N_664_GT_R.png,0
+664,Non Glaucoma Images/N_665_R.jpg,N GT/N_665_GT_R.png,0
+665,Non Glaucoma Images/N_666_R.jpg,N GT/N_666_GT_R.png,0
+666,Non Glaucoma Images/N_667_R.jpg,N GT/N_667_GT_R.png,0
+667,Non Glaucoma Images/N_668_R.jpg,N GT/N_668_GT_R.png,0
+668,Non Glaucoma Images/N_669_R.jpg,N GT/N_669_GT_R.png,0
+669,Non Glaucoma Images/N_670_R.jpg,N GT/N_670_GT_R.png,0
+670,Non Glaucoma Images/N_671_R.jpg,N GT/N_671_GT_R.png,0
+671,Non Glaucoma Images/N_672_R.jpg,N GT/N_672_GT_R.png,0
+672,Non Glaucoma Images/N_673_R.jpg,N GT/N_673_GT_R.png,0
+673,Non Glaucoma Images/N_674_R.jpg,N GT/N_674_GT_R.png,0
+674,Non Glaucoma Images/N_675_R.jpg,N GT/N_675_GT_R.png,0
+675,Non Glaucoma Images/N_676_R.jpg,N GT/N_676_GT_R.png,0
+676,Non Glaucoma Images/N_677_R.jpg,N GT/N_677_GT_R.png,0
+677,Non Glaucoma Images/N_678_R.jpg,N GT/N_678_GT_R.png,0
+678,Non Glaucoma Images/N_679_R.jpg,N GT/N_679_GT_R.png,0
+679,Non Glaucoma Images/N_680_R.jpg,N GT/N_680_GT_R.png,0
+680,Non Glaucoma Images/N_681_R.jpg,N GT/N_681_GT_R.png,0
+681,Non Glaucoma Images/N_682_R.jpg,N GT/N_682_GT_R.png,0
+682,Non Glaucoma Images/N_683_R.jpg,N GT/N_683_GT_R.png,0
+683,Non Glaucoma Images/N_684_R.jpg,N GT/N_684_GT_R.png,0
+684,Non Glaucoma Images/N_685_R.jpg,N GT/N_685_GT_R.png,0
+685,Non Glaucoma Images/N_686_R.jpg,N GT/N_686_GT_R.png,0
+686,Non Glaucoma Images/N_687_R.jpg,N GT/N_687_GT_R.png,0
+687,Non Glaucoma Images/N_688_R.jpg,N GT/N_688_GT_R.png,0
+688,Non Glaucoma Images/N_689_R.jpg,N GT/N_689_GT_R.png,0
+689,Non Glaucoma Images/N_690_R.jpg,N GT/N_690_GT_R.png,0
+690,Non Glaucoma Images/N_691_R.jpg,N GT/N_691_GT_R.png,0
+691,Non Glaucoma Images/N_692_R.jpg,N GT/N_692_GT_R.png,0
+692,Non Glaucoma Images/N_693_R.jpg,N GT/N_693_GT_R.png,0
+693,Non Glaucoma Images/N_694_R.jpg,N GT/N_694_GT_R.png,0
+694,Non Glaucoma Images/N_695_R.jpg,N GT/N_695_GT_R.png,0
+695,Non Glaucoma Images/N_696_R.jpg,N GT/N_696_GT_R.png,0
+696,Non Glaucoma Images/N_697_R.jpg,N GT/N_697_GT_R.png,0
+697,Non Glaucoma Images/N_698_R.jpg,N GT/N_698_GT_R.png,0
+698,Non Glaucoma Images/N_699_R.jpg,N GT/N_699_GT_R.png,0
+699,Non Glaucoma Images/N_700_R.jpg,N GT/N_700_GT_R.png,0
+700,Non Glaucoma Images/N_701_R.jpg,N GT/N_701_GT_R.png,0
+701,Non Glaucoma Images/N_702_R.jpg,N GT/N_702_GT_R.png,0
+702,Non Glaucoma Images/N_703_R.jpg,N GT/N_703_GT_R.png,0
+703,Non Glaucoma Images/N_704_R.jpg,N GT/N_704_GT_R.png,0
+704,Non Glaucoma Images/N_705_R.jpg,N GT/N_705_GT_R.png,0
+705,Non Glaucoma Images/N_706_R.jpg,N GT/N_706_GT_R.png,0
+706,Non Glaucoma Images/N_707_R.jpg,N GT/N_707_GT_R.png,0
+707,Non Glaucoma Images/N_708_R.jpg,N GT/N_708_GT_R.png,0
+708,Non Glaucoma Images/N_709_R.jpg,N GT/N_709_GT_R.png,0
+709,Non Glaucoma Images/N_710_R.jpg,N GT/N_710_GT_R.png,0
+710,Non Glaucoma Images/N_711_R.jpg,N GT/N_711_GT_R.png,0
+711,Non Glaucoma Images/N_712_R.jpg,N GT/N_712_GT_R.png,0
+712,Non Glaucoma Images/N_713_R.jpg,N GT/N_713_GT_R.png,0
+713,Non Glaucoma Images/N_714_R.jpg,N GT/N_714_GT_R.png,0
+714,Non Glaucoma Images/N_715_R.jpg,N GT/N_715_GT_R.png,0
+715,Non Glaucoma Images/N_716_R.jpg,N GT/N_716_GT_R.png,0
+716,Non Glaucoma Images/N_717_R.jpg,N GT/N_717_GT_R.png,0
+717,Non Glaucoma Images/N_718_R.jpg,N GT/N_718_GT_R.png,0
+718,Non Glaucoma Images/N_719_R.jpg,N GT/N_719_GT_R.png,0
+719,Non Glaucoma Images/N_720_R.jpg,N GT/N_720_GT_R.png,0
+720,Non Glaucoma Images/N_721_R.jpg,N GT/N_721_GT_R.png,0
+721,Non Glaucoma Images/N_722_R.jpg,N GT/N_722_GT_R.png,0
+722,Non Glaucoma Images/N_723_R.jpg,N GT/N_723_GT_R.png,0
+723,Non Glaucoma Images/N_724_R.jpg,N GT/N_724_GT_R.png,0
+724,Non Glaucoma Images/N_725_R.jpg,N GT/N_725_GT_R.png,0
+725,Non Glaucoma Images/N_726_R.jpg,N GT/N_726_GT_R.png,0
+726,Non Glaucoma Images/N_727_R.jpg,N GT/N_727_GT_R.png,0
+727,Non Glaucoma Images/N_728_R.jpg,N GT/N_728_GT_R.png,0
+728,Non Glaucoma Images/N_729_R.jpg,N GT/N_729_GT_R.png,0
+729,Non Glaucoma Images/N_730_R.jpg,N GT/N_730_GT_R.png,0
+730,Non Glaucoma Images/N_731_R.jpg,N GT/N_731_GT_R.png,0
+731,Non Glaucoma Images/N_732_R.jpg,N GT/N_732_GT_R.png,0
+732,Non Glaucoma Images/N_733_R.jpg,N GT/N_733_GT_R.png,0
+733,Non Glaucoma Images/N_734_R.jpg,N GT/N_734_GT_R.png,0
+734,Non Glaucoma Images/N_735_R.jpg,N GT/N_735_GT_R.png,0
+735,Non Glaucoma Images/N_736_R.jpg,N GT/N_736_GT_R.png,0
+736,Non Glaucoma Images/N_737_R.jpg,N GT/N_737_GT_R.png,0
+737,Non Glaucoma Images/N_738_R.jpg,N GT/N_738_GT_R.png,0
+738,Non Glaucoma Images/N_739_R.jpg,N GT/N_739_GT_R.png,0
+739,Non Glaucoma Images/N_740_R.jpg,N GT/N_740_GT_R.png,0
+740,Non Glaucoma Images/N_741_R.jpg,N GT/N_741_GT_R.png,0
+741,Non Glaucoma Images/N_742_R.jpg,N GT/N_742_GT_R.png,0
+742,Non Glaucoma Images/N_743_R.jpg,N GT/N_743_GT_R.png,0
+743,Non Glaucoma Images/N_744_R.jpg,N GT/N_744_GT_R.png,0
+744,Non Glaucoma Images/N_745_R.jpg,N GT/N_745_GT_R.png,0
+745,Non Glaucoma Images/N_746_R.jpg,N GT/N_746_GT_R.png,0
+746,Non Glaucoma Images/N_747_R.jpg,N GT/N_747_GT_R.png,0
+747,Non Glaucoma Images/N_748_R.jpg,N GT/N_748_GT_R.png,0
+748,Non Glaucoma Images/N_749_R.jpg,N GT/N_749_GT_R.png,0
+749,Non Glaucoma Images/N_750_R.jpg,N GT/N_750_GT_R.png,0
+750,Non Glaucoma Images/N_751_R.jpg,N GT/N_751_GT_R.png,0
+751,Non Glaucoma Images/N_752_R.jpg,N GT/N_752_GT_R.png,0
+752,Non Glaucoma Images/N_753_R.jpg,N GT/N_753_GT_R.png,0
+753,Non Glaucoma Images/N_754_R.jpg,N GT/N_754_GT_R.png,0
+754,Non Glaucoma Images/N_755_R.jpg,N GT/N_755_GT_R.png,0
+755,Non Glaucoma Images/N_756_R.jpg,N GT/N_756_GT_R.png,0
+756,Non Glaucoma Images/N_757_R.jpg,N GT/N_757_GT_R.png,0
+757,Non Glaucoma Images/N_758_R.jpg,N GT/N_758_GT_R.png,0
+758,Non Glaucoma Images/N_759_R.jpg,N GT/N_759_GT_R.png,0
+759,Non Glaucoma Images/N_760_R.jpg,N GT/N_760_GT_R.png,0
+760,Non Glaucoma Images/N_761_R.jpg,N GT/N_761_GT_R.png,0
+761,Non Glaucoma Images/N_762_R.jpg,N GT/N_762_GT_R.png,0
+762,Non Glaucoma Images/N_763_R.jpg,N GT/N_763_GT_R.png,0
+763,Non Glaucoma Images/N_764_R.jpg,N GT/N_764_GT_R.png,0
+764,Non Glaucoma Images/N_765_R.jpg,N GT/N_765_GT_R.png,0
+765,Non Glaucoma Images/N_766_R.jpg,N GT/N_766_GT_R.png,0
+766,Non Glaucoma Images/N_767_R.jpg,N GT/N_767_GT_R.png,0
+767,Non Glaucoma Images/N_768_R.jpg,N GT/N_768_GT_R.png,0
+768,Non Glaucoma Images/N_769_R.jpg,N GT/N_769_GT_R.png,0
+769,Non Glaucoma Images/N_770_R.jpg,N GT/N_770_GT_R.png,0
+770,Non Glaucoma Images/N_771_R.jpg,N GT/N_771_GT_R.png,0
+771,Non Glaucoma Images/N_772_R.jpg,N GT/N_772_GT_R.png,0
+772,Non Glaucoma Images/N_773_R.jpg,N GT/N_773_GT_R.png,0
+773,Non Glaucoma Images/N_774_R.jpg,N GT/N_774_GT_R.png,0
+774,Non Glaucoma Images/N_775_R.jpg,N GT/N_775_GT_R.png,0
+775,Non Glaucoma Images/N_776_R.jpg,N GT/N_776_GT_R.png,0
+776,Non Glaucoma Images/N_777_R.jpg,N GT/N_777_GT_R.png,0
+777,Non Glaucoma Images/N_778_R.jpg,N GT/N_778_GT_R.png,0
+778,Non Glaucoma Images/N_779_R.jpg,N GT/N_779_GT_R.png,0
+779,Non Glaucoma Images/N_780_R.jpg,N GT/N_780_GT_R.png,0
+780,Non Glaucoma Images/N_781_R.jpg,N GT/N_781_GT_R.png,0
+781,Non Glaucoma Images/N_782_R.jpg,N GT/N_782_GT_R.png,0
+782,Non Glaucoma Images/N_783_R.jpg,N GT/N_783_GT_R.png,0
+783,Non Glaucoma Images/N_784_R.jpg,N GT/N_784_GT_R.png,0
+784,Non Glaucoma Images/N_785_R.jpg,N GT/N_785_GT_R.png,0
+785,Non Glaucoma Images/N_786_R.jpg,N GT/N_786_GT_R.png,0
+786,Non Glaucoma Images/N_787_R.jpg,N GT/N_787_GT_R.png,0
+787,Non Glaucoma Images/N_788_R.jpg,N GT/N_788_GT_R.png,0
+788,Non Glaucoma Images/N_789_R.jpg,N GT/N_789_GT_R.png,0
+789,Non Glaucoma Images/N_790_R.jpg,N GT/N_790_GT_R.png,0
+790,Non Glaucoma Images/N_791_R.jpg,N GT/N_791_GT_R.png,0
+791,Non Glaucoma Images/N_792_R.jpg,N GT/N_792_GT_R.png,0
+792,Non Glaucoma Images/N_793_R.jpg,N GT/N_793_GT_R.png,0
+793,Non Glaucoma Images/N_794_R.jpg,N GT/N_794_GT_R.png,0
+794,Non Glaucoma Images/N_795_R.jpg,N GT/N_795_GT_R.png,0
+795,Non Glaucoma Images/N_796_R.jpg,N GT/N_796_GT_R.png,0
+796,Non Glaucoma Images/N_797_R.jpg,N GT/N_797_GT_R.png,0
+797,Non Glaucoma Images/N_798_R.jpg,N GT/N_798_GT_R.png,0
+798,Non Glaucoma Images/N_799_R.jpg,N GT/N_799_GT_R.png,0
+799,Non Glaucoma Images/N_800_R.jpg,N GT/N_800_GT_R.png,0
+800,Non Glaucoma Images/N_801_R.jpg,N GT/N_801_GT_R.png,0
+801,Non Glaucoma Images/N_802_R.jpg,N GT/N_802_GT_R.png,0
+802,Non Glaucoma Images/N_803_R.jpg,N GT/N_803_GT_R.png,0
+803,Non Glaucoma Images/N_804_R.jpg,N GT/N_804_GT_R.png,0
+804,Non Glaucoma Images/N_805_R.jpg,N GT/N_805_GT_R.png,0
+805,Non Glaucoma Images/N_806_R.jpg,N GT/N_806_GT_R.png,0
+806,Non Glaucoma Images/N_807_R.jpg,N GT/N_807_GT_R.png,0
+807,Non Glaucoma Images/N_808_R.jpg,N GT/N_808_GT_R.png,0
+808,Non Glaucoma Images/N_809_R.jpg,N GT/N_809_GT_R.png,0
+809,Non Glaucoma Images/N_810_R.jpg,N GT/N_810_GT_R.png,0
+810,Non Glaucoma Images/N_811_R.jpg,N GT/N_811_GT_R.png,0
+811,Non Glaucoma Images/N_812_R.jpg,N GT/N_812_GT_R.png,0
+812,Non Glaucoma Images/N_813_R.jpg,N GT/N_813_GT_R.png,0
+813,Non Glaucoma Images/N_814_R.jpg,N GT/N_814_GT_R.png,0
+814,Non Glaucoma Images/N_815_R.jpg,N GT/N_815_GT_R.png,0
+815,Non Glaucoma Images/N_816_R.jpg,N GT/N_816_GT_R.png,0
+816,Non Glaucoma Images/N_817_R.jpg,N GT/N_817_GT_R.png,0
+817,Non Glaucoma Images/N_818_R.jpg,N GT/N_818_GT_R.png,0
+818,Non Glaucoma Images/N_819_R.jpg,N GT/N_819_GT_R.png,0
+819,Non Glaucoma Images/N_820_R.jpg,N GT/N_820_GT_R.png,0
+820,Non Glaucoma Images/N_821_R.jpg,N GT/N_821_GT_R.png,0
+821,Non Glaucoma Images/N_822_R.jpg,N GT/N_822_GT_R.png,0
+822,Non Glaucoma Images/N_823_R.jpg,N GT/N_823_GT_R.png,0
+823,Non Glaucoma Images/N_824_R.jpg,N GT/N_824_GT_R.png,0
+824,Non Glaucoma Images/N_825_R.jpg,N GT/N_825_GT_R.png,0
+825,Non Glaucoma Images/N_826_R.jpg,N GT/N_826_GT_R.png,0
+826,Non Glaucoma Images/N_827_R.jpg,N GT/N_827_GT_R.png,0
+827,Non Glaucoma Images/N_828_R.jpg,N GT/N_828_GT_R.png,0
+828,Non Glaucoma Images/N_829_R.jpg,N GT/N_829_GT_R.png,0
+829,Non Glaucoma Images/N_830_R.jpg,N GT/N_830_GT_R.png,0
+830,Non Glaucoma Images/N_831_R.jpg,N GT/N_831_GT_R.png,0
+831,Non Glaucoma Images/N_832_R.jpg,N GT/N_832_GT_R.png,0
+832,Non Glaucoma Images/N_833_R.jpg,N GT/N_833_GT_R.png,0
+833,Non Glaucoma Images/N_834_R.jpg,N GT/N_834_GT_R.png,0
+834,Non Glaucoma Images/N_835_R.jpg,N GT/N_835_GT_R.png,0
+835,Non Glaucoma Images/N_836_R.jpg,N GT/N_836_GT_R.png,0
+836,Non Glaucoma Images/N_837_R.jpg,N GT/N_837_GT_R.png,0
+837,Non Glaucoma Images/N_838_R.jpg,N GT/N_838_GT_R.png,0
+838,Non Glaucoma Images/N_839_R.jpg,N GT/N_839_GT_R.png,0
+839,Non Glaucoma Images/N_840_R.jpg,N GT/N_840_GT_R.png,0
+840,Non Glaucoma Images/N_841_R.jpg,N GT/N_841_GT_R.png,0
+841,Non Glaucoma Images/N_842_R.jpg,N GT/N_842_GT_R.png,0
+842,Non Glaucoma Images/N_843_R.jpg,N GT/N_843_GT_R.png,0
+843,Non Glaucoma Images/N_844_R.jpg,N GT/N_844_GT_R.png,0
+844,Non Glaucoma Images/N_845_R.jpg,N GT/N_845_GT_R.png,0
+845,Non Glaucoma Images/N_846_R.jpg,N GT/N_846_GT_R.png,0
+846,Non Glaucoma Images/N_847_R.jpg,N GT/N_847_GT_R.png,0
+847,Non Glaucoma Images/N_848_R.jpg,N GT/N_848_GT_R.png,0
+848,Non Glaucoma Images/N_849_R.jpg,N GT/N_849_GT_R.png,0
+849,Non Glaucoma Images/N_850_R.jpg,N GT/N_850_GT_R.png,0
+850,Non Glaucoma Images/N_851_R.jpg,N GT/N_851_GT_R.png,0
+851,Non Glaucoma Images/N_852_R.jpg,N GT/N_852_GT_R.png,0
+852,Non Glaucoma Images/N_853_R.jpg,N GT/N_853_GT_R.png,0
+853,Non Glaucoma Images/N_854_R.jpg,N GT/N_854_GT_R.png,0
+854,Non Glaucoma Images/N_855_R.jpg,N GT/N_855_GT_R.png,0
+855,Non Glaucoma Images/N_856_R.jpg,N GT/N_856_GT_R.png,0
+856,Non Glaucoma Images/N_857_R.jpg,N GT/N_857_GT_R.png,0
+857,Non Glaucoma Images/N_858_R.jpg,N GT/N_858_GT_R.png,0
+858,Non Glaucoma Images/N_859_R.jpg,N GT/N_859_GT_R.png,0
+859,Non Glaucoma Images/N_860_R.jpg,N GT/N_860_GT_R.png,0
+860,Non Glaucoma Images/N_861_R.jpg,N GT/N_861_GT_R.png,0
+861,Non Glaucoma Images/N_862_R.jpg,N GT/N_862_GT_R.png,0
+862,Non Glaucoma Images/N_863_R.jpg,N GT/N_863_GT_R.png,0
+863,Non Glaucoma Images/N_864_R.jpg,N GT/N_864_GT_R.png,0
+864,Non Glaucoma Images/N_865_R.jpg,N GT/N_865_GT_R.png,0
+865,Non Glaucoma Images/N_866_R.jpg,N GT/N_866_GT_R.png,0
+866,Non Glaucoma Images/N_867_R.jpg,N GT/N_867_GT_R.png,0
+867,Non Glaucoma Images/N_868_R.jpg,N GT/N_868_GT_R.png,0
+868,Non Glaucoma Images/N_869_R.jpg,N GT/N_869_GT_R.png,0
+869,Non Glaucoma Images/N_870_R.jpg,N GT/N_870_GT_R.png,0
+870,Non Glaucoma Images/N_871_R.jpg,N GT/N_871_GT_R.png,0
+871,Non Glaucoma Images/N_872_R.jpg,N GT/N_872_GT_R.png,0
+872,Non Glaucoma Images/N_873_R.jpg,N GT/N_873_GT_R.png,0
+873,Non Glaucoma Images/N_874_R.jpg,N GT/N_874_GT_R.png,0
+874,Non Glaucoma Images/N_875_R.jpg,N GT/N_875_GT_R.png,0
+875,Non Glaucoma Images/N_876_R.jpg,N GT/N_876_GT_R.png,0
+876,Non Glaucoma Images/N_877_R.jpg,N GT/N_877_GT_R.png,0
+877,Non Glaucoma Images/N_878_R.jpg,N GT/N_878_GT_R.png,0
+878,Non Glaucoma Images/N_879_R.jpg,N GT/N_879_GT_R.png,0
+879,Non Glaucoma Images/N_880_R.jpg,N GT/N_880_GT_R.png,0
+880,Non Glaucoma Images/N_881_R.jpg,N GT/N_881_GT_R.png,0
+881,Non Glaucoma Images/N_882_R.jpg,N GT/N_882_GT_R.png,0
+882,Non Glaucoma Images/N_883_R.jpg,N GT/N_883_GT_R.png,0
+883,Non Glaucoma Images/N_884_R.jpg,N GT/N_884_GT_R.png,0
+884,Non Glaucoma Images/N_885_R.jpg,N GT/N_885_GT_R.png,0
+885,Non Glaucoma Images/N_886_R.jpg,N GT/N_886_GT_R.png,0
+886,Non Glaucoma Images/N_887_R.jpg,N GT/N_887_GT_R.png,0
+887,Non Glaucoma Images/N_888_R.jpg,N GT/N_888_GT_R.png,0
+888,Non Glaucoma Images/N_889_R.jpg,N GT/N_889_GT_R.png,0
+889,Non Glaucoma Images/N_890_R.jpg,N GT/N_890_GT_R.png,0
+890,Non Glaucoma Images/N_891_R.jpg,N GT/N_891_GT_R.png,0
+891,Non Glaucoma Images/N_892_R.jpg,N GT/N_892_GT_R.png,0
+892,Non Glaucoma Images/N_893_R.jpg,N GT/N_893_GT_R.png,0
+893,Non Glaucoma Images/N_894_R.jpg,N GT/N_894_GT_R.png,0
+894,Non Glaucoma Images/N_895_R.jpg,N GT/N_895_GT_R.png,0
+895,Non Glaucoma Images/N_896_R.jpg,N GT/N_896_GT_R.png,0
+896,Non Glaucoma Images/N_897_R.jpg,N GT/N_897_GT_R.png,0
+897,Non Glaucoma Images/N_898_R.jpg,N GT/N_898_GT_R.png,0
+898,Non Glaucoma Images/N_899_R.jpg,N GT/N_899_GT_R.png,0
+899,Non Glaucoma Images/N_900_R.jpg,N GT/N_900_GT_R.png,0
+900,Non Glaucoma Images/N_901_R.jpg,N GT/N_901_GT_R.png,0
+901,Glaucoma Images/G_902_R.jpg,G GT/G_902_GT_R.png,1
+902,Glaucoma Images/G_903_R.jpg,G GT/G_903_GT_R.png,1
+903,Glaucoma Images/G_904_R.jpg,G GT/G_904_GT_R.png,1
+904,Glaucoma Images/G_905_R.jpg,G GT/G_905_GT_R.png,1
+905,Glaucoma Images/G_906_R.jpg,G GT/G_906_GT_R.png,1
+906,Glaucoma Images/G_907_R.jpg,G GT/G_907_GT_R.png,1
+907,Glaucoma Images/G_908_R.jpg,G GT/G_908_GT_R.png,1
+908,Glaucoma Images/G_909_R.jpg,G GT/G_909_GT_R.png,1
+909,Glaucoma Images/G_910_R.jpg,G GT/G_910_GT_R.png,1
+910,Glaucoma Images/G_911_R.jpg,G GT/G_911_GT_R.png,1
+911,Glaucoma Images/G_912_R.jpg,G GT/G_912_GT_R.png,1
+912,Glaucoma Images/G_913_R.jpg,G GT/G_913_GT_R.png,1
+913,Glaucoma Images/G_914_R.jpg,G GT/G_914_GT_R.png,1
+914,Glaucoma Images/G_915_R.jpg,G GT/G_915_GT_R.png,1
+915,Glaucoma Images/G_916_R.jpg,G GT/G_916_GT_R.png,1
+916,Glaucoma Images/G_917_R.jpg,G GT/G_917_GT_R.png,1
+917,Glaucoma Images/G_918_R.jpg,G GT/G_918_GT_R.png,1
+918,Glaucoma Images/G_919_R.jpg,G GT/G_919_GT_R.png,1
+919,Glaucoma Images/G_920_R.jpg,G GT/G_920_GT_R.png,1
+920,Glaucoma Images/G_921_R.jpg,G GT/G_921_GT_R.png,1
+921,Glaucoma Images/G_922_R.jpg,G GT/G_922_GT_R.png,1
+922,Glaucoma Images/G_923_R.jpg,G GT/G_923_GT_R.png,1
+923,Glaucoma Images/G_924_R.jpg,G GT/G_924_GT_R.png,1
+924,Glaucoma Images/G_925_R.jpg,G GT/G_925_GT_R.png,1
+925,Glaucoma Images/G_926_R.jpg,G GT/G_926_GT_R.png,1
+926,Glaucoma Images/G_927_R.jpg,G GT/G_927_GT_R.png,1
+927,Glaucoma Images/G_928_R.jpg,G GT/G_928_GT_R.png,1
+928,Glaucoma Images/G_929_R.jpg,G GT/G_929_GT_R.png,1
+929,Glaucoma Images/G_930_R.jpg,G GT/G_930_GT_R.png,1
+930,Glaucoma Images/G_931_R.jpg,G GT/G_931_GT_R.png,1
+931,Glaucoma Images/G_932_R.jpg,G GT/G_932_GT_R.png,1
+932,Glaucoma Images/G_933_R.jpg,G GT/G_933_GT_R.png,1
+933,Glaucoma Images/G_934_R.jpg,G GT/G_934_GT_R.png,1
+934,Glaucoma Images/G_935_R.jpg,G GT/G_935_GT_R.png,1
+935,Glaucoma Images/G_936_R.jpg,G GT/G_936_GT_R.png,1
+936,Glaucoma Images/G_937_R.jpg,G GT/G_937_GT_R.png,1
+937,Glaucoma Images/G_938_R.jpg,G GT/G_938_GT_R.png,1
+938,Glaucoma Images/G_939_R.jpg,G GT/G_939_GT_R.png,1
+939,Glaucoma Images/G_940_R.jpg,G GT/G_940_GT_R.png,1
+940,Glaucoma Images/G_941_R.jpg,G GT/G_941_GT_R.png,1
+941,Non Glaucoma Images/N_942_R.jpg,N GT/N_942_GT_R.png,0
+942,Non Glaucoma Images/N_943_R.jpg,N GT/N_943_GT_R.png,0
+943,Non Glaucoma Images/N_944_R.jpg,N GT/N_944_GT_R.png,0
+944,Non Glaucoma Images/N_945_R.jpg,N GT/N_945_GT_R.png,0
+945,Non Glaucoma Images/N_946_R.jpg,N GT/N_946_GT_R.png,0
+946,Non Glaucoma Images/N_947_R.jpg,N GT/N_947_GT_R.png,0
+947,Non Glaucoma Images/N_948_R.jpg,N GT/N_948_GT_R.png,0
+948,Non Glaucoma Images/N_949_R.jpg,N GT/N_949_GT_R.png,0
+949,Non Glaucoma Images/N_950_R.jpg,N GT/N_950_GT_R.png,0
+950,Non Glaucoma Images/N_951_R.jpg,N GT/N_951_GT_R.png,0
+951,Non Glaucoma Images/N_952_R.jpg,N GT/N_952_GT_R.png,0
+952,Non Glaucoma Images/N_953_R.jpg,N GT/N_953_GT_R.png,0
+953,Non Glaucoma Images/N_954_R.jpg,N GT/N_954_GT_R.png,0
+954,Non Glaucoma Images/N_955_R.jpg,N GT/N_955_GT_R.png,0
+955,Non Glaucoma Images/N_956_R.jpg,N GT/N_956_GT_R.png,0
+956,Non Glaucoma Images/N_957_R.jpg,N GT/N_957_GT_R.png,0
+957,Non Glaucoma Images/N_958_R.jpg,N GT/N_958_GT_R.png,0
+958,Non Glaucoma Images/N_959_R.jpg,N GT/N_959_GT_R.png,0
+959,Non Glaucoma Images/N_960_R.jpg,N GT/N_960_GT_R.png,0
+960,Non Glaucoma Images/N_961_R.jpg,N GT/N_961_GT_R.png,0
+961,Non Glaucoma Images/N_962_R.jpg,N GT/N_962_GT_R.png,0
+962,Non Glaucoma Images/N_963_R.jpg,N GT/N_963_GT_R.png,0
+963,Non Glaucoma Images/N_964_R.jpg,N GT/N_964_GT_R.png,0
+964,Non Glaucoma Images/N_965_R.jpg,N GT/N_965_GT_R.png,0
+965,Non Glaucoma Images/N_966_R.jpg,N GT/N_966_GT_R.png,0
+966,Non Glaucoma Images/N_967_R.jpg,N GT/N_967_GT_R.png,0
+967,Non Glaucoma Images/N_968_R.jpg,N GT/N_968_GT_R.png,0
+968,Non Glaucoma Images/N_969_R.jpg,N GT/N_969_GT_R.png,0
+969,Non Glaucoma Images/N_970_R.jpg,N GT/N_970_GT_R.png,0
+970,Non Glaucoma Images/N_971_R.jpg,N GT/N_971_GT_R.png,0
+971,Non Glaucoma Images/N_972_R.jpg,N GT/N_972_GT_R.png,0
+972,Non Glaucoma Images/N_973_R.jpg,N GT/N_973_GT_R.png,0
+973,Non Glaucoma Images/N_974_R.jpg,N GT/N_974_GT_R.png,0
+974,Non Glaucoma Images/N_975_R.jpg,N GT/N_975_GT_R.png,0
+975,Non Glaucoma Images/N_976_R.jpg,N GT/N_976_GT_R.png,0
+976,Non Glaucoma Images/N_977_R.jpg,N GT/N_977_GT_R.png,0
+977,Non Glaucoma Images/N_978_R.jpg,N GT/N_978_GT_R.png,0
+978,Non Glaucoma Images/N_979_R.jpg,N GT/N_979_GT_R.png,0
+979,Non Glaucoma Images/N_980_R.jpg,N GT/N_980_GT_R.png,0
+980,Non Glaucoma Images/N_981_R.jpg,N GT/N_981_GT_R.png,0
+981,Non Glaucoma Images/N_982_R.jpg,N GT/N_982_GT_R.png,0
+982,Non Glaucoma Images/N_983_R.jpg,N GT/N_983_GT_R.png,0
+983,Non Glaucoma Images/N_984_R.jpg,N GT/N_984_GT_R.png,0
+984,Non Glaucoma Images/N_985_R.jpg,N GT/N_985_GT_R.png,0
+985,Non Glaucoma Images/N_986_R.jpg,N GT/N_986_GT_R.png,0
+986,Non Glaucoma Images/N_987_R.jpg,N GT/N_987_GT_R.png,0
+987,Non Glaucoma Images/N_988_R.jpg,N GT/N_988_GT_R.png,0
+988,Non Glaucoma Images/N_989_R.jpg,N GT/N_989_GT_R.png,0
+989,Non Glaucoma Images/N_990_R.jpg,N GT/N_990_GT_R.png,0
+990,Non Glaucoma Images/N_991_R.jpg,N GT/N_991_GT_R.png,0
+991,Non Glaucoma Images/N_992_R.jpg,N GT/N_992_GT_R.png,0
+992,Non Glaucoma Images/N_993_R.jpg,N GT/N_993_GT_R.png,0
+993,Non Glaucoma Images/N_994_R.jpg,N GT/N_994_GT_R.png,0
+994,Non Glaucoma Images/N_995_R.jpg,N GT/N_995_GT_R.png,0
+995,Non Glaucoma Images/N_996_R.jpg,N GT/N_996_GT_R.png,0
+996,Non Glaucoma Images/N_997_R.jpg,N GT/N_997_GT_R.png,0
+997,Non Glaucoma Images/N_998_R.jpg,N GT/N_998_GT_R.png,0
+998,Non Glaucoma Images/N_999_R.jpg,N GT/N_999_GT_R.png,0
+999,Non Glaucoma Images/N_1000_R.jpg,N GT/N_1000_GT_R.png,0
+1000,Non Glaucoma Images/N_1001_R.jpg,N GT/N_1001_GT_R.png,0
+1001,Non Glaucoma Images/N_1002_R.jpg,N GT/N_1002_GT_R.png,0
+1002,Non Glaucoma Images/N_1003_R.jpg,N GT/N_1003_GT_R.png,0
+1003,Non Glaucoma Images/N_1004_R.jpg,N GT/N_1004_GT_R.png,0
+1004,Non Glaucoma Images/N_1005_R.jpg,N GT/N_1005_GT_R.png,0
+1005,Non Glaucoma Images/N_1006_R.jpg,N GT/N_1006_GT_R.png,0
+1006,Non Glaucoma Images/N_1007_R.jpg,N GT/N_1007_GT_R.png,0
+1007,Non Glaucoma Images/N_1008_R.jpg,N GT/N_1008_GT_R.png,0
+1008,Non Glaucoma Images/N_1009_R.jpg,N GT/N_1009_GT_R.png,0
+1009,Non Glaucoma Images/N_1010_R.jpg,N GT/N_1010_GT_R.png,0
+1010,Non Glaucoma Images/N_1011_R.jpg,N GT/N_1011_GT_R.png,0
+1011,Non Glaucoma Images/N_1012_R.jpg,N GT/N_1012_GT_R.png,0
+1012,Non Glaucoma Images/N_1013_R.jpg,N GT/N_1013_GT_R.png,0
+1013,Non Glaucoma Images/N_1014_R.jpg,N GT/N_1014_GT_R.png,0
+1014,Non Glaucoma Images/N_1015_R.jpg,N GT/N_1015_GT_R.png,0
+1015,Non Glaucoma Images/N_1016_R.jpg,N GT/N_1016_GT_R.png,0
+1016,Non Glaucoma Images/N_1017_R.jpg,N GT/N_1017_GT_R.png,0
+1017,Non Glaucoma Images/N_1018_R.jpg,N GT/N_1018_GT_R.png,0
+1018,Non Glaucoma Images/N_1019_R.jpg,N GT/N_1019_GT_R.png,0
+1019,Non Glaucoma Images/N_1020_R.jpg,N GT/N_1020_GT_R.png,0
+1020,Non Glaucoma Images/N_1021_R.jpg,N GT/N_1021_GT_R.png,0
+1021,Non Glaucoma Images/N_1022_R.jpg,N GT/N_1022_GT_R.png,0
+1022,Non Glaucoma Images/N_1023_R.jpg,N GT/N_1023_GT_R.png,0
+1023,Non Glaucoma Images/N_1024_R.jpg,N GT/N_1024_GT_R.png,0
+1024,Non Glaucoma Images/N_1025_R.jpg,N GT/N_1025_GT_R.png,0
+1025,Non Glaucoma Images/N_1026_R.jpg,N GT/N_1026_GT_R.png,0
+1026,Non Glaucoma Images/N_1027_R.jpg,N GT/N_1027_GT_R.png,0
+1027,Non Glaucoma Images/N_1028_R.jpg,N GT/N_1028_GT_R.png,0
+1028,Non Glaucoma Images/N_1029_R.jpg,N GT/N_1029_GT_R.png,0
+1029,Non Glaucoma Images/N_1030_R.jpg,N GT/N_1030_GT_R.png,0
+1030,Non Glaucoma Images/N_1031_R.jpg,N GT/N_1031_GT_R.png,0
+1031,Non Glaucoma Images/N_1032_R.jpg,N GT/N_1032_GT_R.png,0
+1032,Non Glaucoma Images/N_1033_R.jpg,N GT/N_1033_GT_R.png,0
+1033,Non Glaucoma Images/N_1034_R.jpg,N GT/N_1034_GT_R.png,0
+1034,Non Glaucoma Images/N_1035_R.jpg,N GT/N_1035_GT_R.png,0
+1035,Non Glaucoma Images/N_1036_R.jpg,N GT/N_1036_GT_R.png,0
+1036,Non Glaucoma Images/N_1037_R.jpg,N GT/N_1037_GT_R.png,0
+1037,Non Glaucoma Images/N_1038_R.jpg,N GT/N_1038_GT_R.png,0
+1038,Non Glaucoma Images/N_1039_R.jpg,N GT/N_1039_GT_R.png,0
+1039,Non Glaucoma Images/N_1040_R.jpg,N GT/N_1040_GT_R.png,0
+1040,Non Glaucoma Images/N_1041_R.jpg,N GT/N_1041_GT_R.png,0
+1041,Non Glaucoma Images/N_1042_R.jpg,N GT/N_1042_GT_R.png,0
+1042,Non Glaucoma Images/N_1043_R.jpg,N GT/N_1043_GT_R.png,0
+1043,Non Glaucoma Images/N_1044_R.jpg,N GT/N_1044_GT_R.png,0
+1044,Non Glaucoma Images/N_1045_R.jpg,N GT/N_1045_GT_R.png,0
+1045,Non Glaucoma Images/N_1046_R.jpg,N GT/N_1046_GT_R.png,0
+1046,Non Glaucoma Images/N_1047_R.jpg,N GT/N_1047_GT_R.png,0
+1047,Non Glaucoma Images/N_1048_R.jpg,N GT/N_1048_GT_R.png,0
+1048,Non Glaucoma Images/N_1049_R.jpg,N GT/N_1049_GT_R.png,0
+1049,Non Glaucoma Images/N_1050_R.jpg,N GT/N_1050_GT_R.png,0
+1050,Non Glaucoma Images/N_1051_R.jpg,N GT/N_1051_GT_R.png,0
+1051,Non Glaucoma Images/N_1052_R.jpg,N GT/N_1052_GT_R.png,0
+1052,Non Glaucoma Images/N_1053_R.jpg,N GT/N_1053_GT_R.png,0
+1053,Non Glaucoma Images/N_1054_R.jpg,N GT/N_1054_GT_R.png,0
+1054,Non Glaucoma Images/N_1055_R.jpg,N GT/N_1055_GT_R.png,0
+1055,Non Glaucoma Images/N_1056_R.jpg,N GT/N_1056_GT_R.png,0
+1056,Non Glaucoma Images/N_1057_R.jpg,N GT/N_1057_GT_R.png,0
+1057,Non Glaucoma Images/N_1058_R.jpg,N GT/N_1058_GT_R.png,0
+1058,Non Glaucoma Images/N_1059_R.jpg,N GT/N_1059_GT_R.png,0
+1059,Non Glaucoma Images/N_1060_R.jpg,N GT/N_1060_GT_R.png,0
+1060,Non Glaucoma Images/N_1061_R.jpg,N GT/N_1061_GT_R.png,0
+1061,Non Glaucoma Images/N_1062_R.jpg,N GT/N_1062_GT_R.png,0
+1062,Non Glaucoma Images/N_1063_R.jpg,N GT/N_1063_GT_R.png,0
+1063,Non Glaucoma Images/N_1064_R.jpg,N GT/N_1064_GT_R.png,0
+1064,Non Glaucoma Images/N_1065_R.jpg,N GT/N_1065_GT_R.png,0
+1065,Non Glaucoma Images/N_1066_R.jpg,N GT/N_1066_GT_R.png,0
+1066,Non Glaucoma Images/N_1067_R.jpg,N GT/N_1067_GT_R.png,0
+1067,Non Glaucoma Images/N_1068_R.jpg,N GT/N_1068_GT_R.png,0
+1068,Non Glaucoma Images/N_1069_R.jpg,N GT/N_1069_GT_R.png,0
+1069,Non Glaucoma Images/N_1070_R.jpg,N GT/N_1070_GT_R.png,0
+1070,Non Glaucoma Images/N_1071_R.jpg,N GT/N_1071_GT_R.png,0
+1071,Non Glaucoma Images/N_1072_R.jpg,N GT/N_1072_GT_R.png,0
+1072,Non Glaucoma Images/N_1073_R.jpg,N GT/N_1073_GT_R.png,0
+1073,Non Glaucoma Images/N_1074_R.jpg,N GT/N_1074_GT_R.png,0
+1074,Non Glaucoma Images/N_1075_R.jpg,N GT/N_1075_GT_R.png,0
+1075,Non Glaucoma Images/N_1076_R.jpg,N GT/N_1076_GT_R.png,0
+1076,Non Glaucoma Images/N_1077_R.jpg,N GT/N_1077_GT_R.png,0
+1077,Non Glaucoma Images/N_1078_R.jpg,N GT/N_1078_GT_R.png,0
+1078,Non Glaucoma Images/N_1079_R.jpg,N GT/N_1079_GT_R.png,0
+1079,Non Glaucoma Images/N_1080_R.jpg,N GT/N_1080_GT_R.png,0
+1080,Non Glaucoma Images/N_1081_R.jpg,N GT/N_1081_GT_R.png,0
+1081,Non Glaucoma Images/N_1082_R.jpg,N GT/N_1082_GT_R.png,0
+1082,Non Glaucoma Images/N_1083_R.jpg,N GT/N_1083_GT_R.png,0
+1083,Non Glaucoma Images/N_1084_R.jpg,N GT/N_1084_GT_R.png,0
+1084,Non Glaucoma Images/N_1085_R.jpg,N GT/N_1085_GT_R.png,0
+1085,Non Glaucoma Images/N_1086_R.jpg,N GT/N_1086_GT_R.png,0
+1086,Non Glaucoma Images/N_1087_R.jpg,N GT/N_1087_GT_R.png,0
+1087,Non Glaucoma Images/N_1088_R.jpg,N GT/N_1088_GT_R.png,0
+1088,Non Glaucoma Images/N_1089_R.jpg,N GT/N_1089_GT_R.png,0
+1089,Non Glaucoma Images/N_1090_R.jpg,N GT/N_1090_GT_R.png,0
+1090,Non Glaucoma Images/N_1091_R.jpg,N GT/N_1091_GT_R.png,0
+1091,Non Glaucoma Images/N_1092_R.jpg,N GT/N_1092_GT_R.png,0
+1092,Non Glaucoma Images/N_1093_R.jpg,N GT/N_1093_GT_R.png,0
+1093,Non Glaucoma Images/N_1094_R.jpg,N GT/N_1094_GT_R.png,0
+1094,Non Glaucoma Images/N_1095_R.jpg,N GT/N_1095_GT_R.png,0
+1095,Non Glaucoma Images/N_1096_R.jpg,N GT/N_1096_GT_R.png,0
+1096,Non Glaucoma Images/N_1097_R.jpg,N GT/N_1097_GT_R.png,0
+1097,Non Glaucoma Images/N_1098_R.jpg,N GT/N_1098_GT_R.png,0
+1098,Non Glaucoma Images/N_1099_R.jpg,N GT/N_1099_GT_R.png,0
+1099,Non Glaucoma Images/N_1100_R.jpg,N GT/N_1100_GT_R.png,0
+1100,Non Glaucoma Images/N_1101_R.jpg,N GT/N_1101_GT_R.png,0
+1101,Non Glaucoma Images/N_1102_R.jpg,N GT/N_1102_GT_R.png,0
+1102,Non Glaucoma Images/N_1103_R.jpg,N GT/N_1103_GT_R.png,0
+1103,Non Glaucoma Images/N_1104_R.jpg,N GT/N_1104_GT_R.png,0
+1104,Non Glaucoma Images/N_1105_R.jpg,N GT/N_1105_GT_R.png,0
+1105,Non Glaucoma Images/N_1106_R.jpg,N GT/N_1106_GT_R.png,0
+1106,Non Glaucoma Images/N_1107_R.jpg,N GT/N_1107_GT_R.png,0
+1107,Non Glaucoma Images/N_1108_R.jpg,N GT/N_1108_GT_R.png,0
+1108,Non Glaucoma Images/N_1109_R.jpg,N GT/N_1109_GT_R.png,0
+1109,Non Glaucoma Images/N_1110_R.jpg,N GT/N_1110_GT_R.png,0
+1110,Non Glaucoma Images/N_1111_R.jpg,N GT/N_1111_GT_R.png,0
+1111,Non Glaucoma Images/N_1112_R.jpg,N GT/N_1112_GT_R.png,0
+1112,Non Glaucoma Images/N_1113_R.jpg,N GT/N_1113_GT_R.png,0
+1113,Non Glaucoma Images/N_1114_R.jpg,N GT/N_1114_GT_R.png,0
+1114,Non Glaucoma Images/N_1115_R.jpg,N GT/N_1115_GT_R.png,0
+1115,Non Glaucoma Images/N_1116_R.jpg,N GT/N_1116_GT_R.png,0
+1116,Non Glaucoma Images/N_1117_R.jpg,N GT/N_1117_GT_R.png,0
+1117,Non Glaucoma Images/N_1118_R.jpg,N GT/N_1118_GT_R.png,0
+1118,Non Glaucoma Images/N_1119_R.jpg,N GT/N_1119_GT_R.png,0
+1119,Non Glaucoma Images/N_1120_R.jpg,N GT/N_1120_GT_R.png,0
+1120,Non Glaucoma Images/N_1121_R.jpg,N GT/N_1121_GT_R.png,0
+1121,Non Glaucoma Images/N_1122_R.jpg,N GT/N_1122_GT_R.png,0
+1122,Non Glaucoma Images/N_1123_R.jpg,N GT/N_1123_GT_R.png,0
+1123,Non Glaucoma Images/N_1124_R.jpg,N GT/N_1124_GT_R.png,0
+1124,Non Glaucoma Images/N_1125_R.jpg,N GT/N_1125_GT_R.png,0
+1125,Non Glaucoma Images/N_1126_R.jpg,N GT/N_1126_GT_R.png,0
+1126,Non Glaucoma Images/N_1127_R.jpg,N GT/N_1127_GT_R.png,0
+1127,Non Glaucoma Images/N_1128_R.jpg,N GT/N_1128_GT_R.png,0
+1128,Non Glaucoma Images/N_1129_R.jpg,N GT/N_1129_GT_R.png,0
+1129,Non Glaucoma Images/N_1130_R.jpg,N GT/N_1130_GT_R.png,0
+1130,Non Glaucoma Images/N_1131_R.jpg,N GT/N_1131_GT_R.png,0
+1131,Non Glaucoma Images/N_1132_R.jpg,N GT/N_1132_GT_R.png,0
+1132,Non Glaucoma Images/N_1133_R.jpg,N GT/N_1133_GT_R.png,0
+1133,Non Glaucoma Images/N_1134_R.jpg,N GT/N_1134_GT_R.png,0
+1134,Non Glaucoma Images/N_1135_R.jpg,N GT/N_1135_GT_R.png,0
+1135,Non Glaucoma Images/N_1136_R.jpg,N GT/N_1136_GT_R.png,0
+1136,Non Glaucoma Images/N_1137_R.jpg,N GT/N_1137_GT_R.png,0
+1137,Non Glaucoma Images/N_1138_R.jpg,N GT/N_1138_GT_R.png,0
+1138,Non Glaucoma Images/N_1139_R.jpg,N GT/N_1139_GT_R.png,0
+1139,Non Glaucoma Images/N_1140_R.jpg,N GT/N_1140_GT_R.png,0
+1140,Non Glaucoma Images/N_1141_R.jpg,N GT/N_1141_GT_R.png,0
+1141,Non Glaucoma Images/N_1142_R.jpg,N GT/N_1142_GT_R.png,0
+1142,Non Glaucoma Images/N_1143_R.jpg,N GT/N_1143_GT_R.png,0
+1143,Non Glaucoma Images/N_1144_R.jpg,N GT/N_1144_GT_R.png,0
+1144,Non Glaucoma Images/N_1145_R.jpg,N GT/N_1145_GT_R.png,0
+1145,Non Glaucoma Images/N_1146_R.jpg,N GT/N_1146_GT_R.png,0
+1146,Non Glaucoma Images/N_1147_R.jpg,N GT/N_1147_GT_R.png,0
+1147,Non Glaucoma Images/N_1148_R.jpg,N GT/N_1148_GT_R.png,0
+1148,Non Glaucoma Images/N_1149_R.jpg,N GT/N_1149_GT_R.png,0
+1149,Non Glaucoma Images/N_1150_R.jpg,N GT/N_1150_GT_R.png,0
+1150,Non Glaucoma Images/N_1151_R.jpg,N GT/N_1151_GT_R.png,0
+1151,Non Glaucoma Images/N_1152_R.jpg,N GT/N_1152_GT_R.png,0
+1152,Non Glaucoma Images/N_1153_R.jpg,N GT/N_1153_GT_R.png,0
+1153,Non Glaucoma Images/N_1154_R.jpg,N GT/N_1154_GT_R.png,0
+1154,Non Glaucoma Images/N_1155_R.jpg,N GT/N_1155_GT_R.png,0
+1155,Non Glaucoma Images/N_1156_R.jpg,N GT/N_1156_GT_R.png,0
+1156,Non Glaucoma Images/N_1157_R.jpg,N GT/N_1157_GT_R.png,0
+1157,Non Glaucoma Images/N_1158_R.jpg,N GT/N_1158_GT_R.png,0
+1158,Non Glaucoma Images/N_1159_R.jpg,N GT/N_1159_GT_R.png,0
+1159,Non Glaucoma Images/N_1160_R.jpg,N GT/N_1160_GT_R.png,0
+1160,Non Glaucoma Images/N_1161_R.jpg,N GT/N_1161_GT_R.png,0
+1161,Non Glaucoma Images/N_1162_R.jpg,N GT/N_1162_GT_R.png,0
+1162,Non Glaucoma Images/N_1163_R.jpg,N GT/N_1163_GT_R.png,0
+1163,Non Glaucoma Images/N_1164_R.jpg,N GT/N_1164_GT_R.png,0
+1164,Non Glaucoma Images/N_1165_R.jpg,N GT/N_1165_GT_R.png,0
+1165,Non Glaucoma Images/N_1166_R.jpg,N GT/N_1166_GT_R.png,0
+1166,Non Glaucoma Images/N_1167_R.jpg,N GT/N_1167_GT_R.png,0
+1167,Non Glaucoma Images/N_1168_R.jpg,N GT/N_1168_GT_R.png,0
+1168,Non Glaucoma Images/N_1169_R.jpg,N GT/N_1169_GT_R.png,0
+1169,Non Glaucoma Images/N_1170_R.jpg,N GT/N_1170_GT_R.png,0
+1170,Non Glaucoma Images/N_1171_R.jpg,N GT/N_1171_GT_R.png,0
+1171,Non Glaucoma Images/N_1172_R.jpg,N GT/N_1172_GT_R.png,0
+1172,Non Glaucoma Images/N_1173_R.jpg,N GT/N_1173_GT_R.png,0
+1173,Non Glaucoma Images/N_1174_R.jpg,N GT/N_1174_GT_R.png,0
+1174,Non Glaucoma Images/N_1175_R.jpg,N GT/N_1175_GT_R.png,0
+1175,Non Glaucoma Images/N_1176_R.jpg,N GT/N_1176_GT_R.png,0
+1176,Non Glaucoma Images/N_1177_R.jpg,N GT/N_1177_GT_R.png,0
+1177,Non Glaucoma Images/N_1178_R.jpg,N GT/N_1178_GT_R.png,0
+1178,Non Glaucoma Images/N_1179_R.jpg,N GT/N_1179_GT_R.png,0
+1179,Non Glaucoma Images/N_1180_R.jpg,N GT/N_1180_GT_R.png,0
+1180,Non Glaucoma Images/N_1181_R.jpg,N GT/N_1181_GT_R.png,0
+1181,Non Glaucoma Images/N_1182_R.jpg,N GT/N_1182_GT_R.png,0
+1182,Non Glaucoma Images/N_1183_R.jpg,N GT/N_1183_GT_R.png,0
+1183,Non Glaucoma Images/N_1184_R.jpg,N GT/N_1184_GT_R.png,0
+1184,Non Glaucoma Images/N_1185_R.jpg,N GT/N_1185_GT_R.png,0
+1185,Non Glaucoma Images/N_1186_R.jpg,N GT/N_1186_GT_R.png,0
+1186,Non Glaucoma Images/N_1187_R.jpg,N GT/N_1187_GT_R.png,0
+1187,Non Glaucoma Images/N_1188_R.jpg,N GT/N_1188_GT_R.png,0
+1188,Non Glaucoma Images/N_1189_R.jpg,N GT/N_1189_GT_R.png,0
+1189,Non Glaucoma Images/N_1190_R.jpg,N GT/N_1190_GT_R.png,0
+1190,Non Glaucoma Images/N_1191_R.jpg,N GT/N_1191_GT_R.png,0
+1191,Non Glaucoma Images/N_1192_R.jpg,N GT/N_1192_GT_R.png,0
+1192,Non Glaucoma Images/N_1193_R.jpg,N GT/N_1193_GT_R.png,0
+1193,Non Glaucoma Images/N_1194_R.jpg,N GT/N_1194_GT_R.png,0
+1194,Non Glaucoma Images/N_1195_R.jpg,N GT/N_1195_GT_R.png,0
+1195,Non Glaucoma Images/N_1196_R.jpg,N GT/N_1196_GT_R.png,0
+1196,Non Glaucoma Images/N_1197_R.jpg,N GT/N_1197_GT_R.png,0
+1197,Non Glaucoma Images/N_1198_R.jpg,N GT/N_1198_GT_R.png,0
+1198,Non Glaucoma Images/N_1199_R.jpg,N GT/N_1199_GT_R.png,0
+1199,Non Glaucoma Images/N_1200_R.jpg,N GT/N_1200_GT_R.png,0
+1200,Non Glaucoma Images/N_1201_R.jpg,N GT/N_1201_GT_R.png,0
+1201,Non Glaucoma Images/N_1202_R.jpg,N GT/N_1202_GT_R.png,0
+1202,Non Glaucoma Images/N_1203_R.jpg,N GT/N_1203_GT_R.png,0
+1203,Non Glaucoma Images/N_1204_R.jpg,N GT/N_1204_GT_R.png,0
+1204,Non Glaucoma Images/N_1205_R.jpg,N GT/N_1205_GT_R.png,0
+1205,Non Glaucoma Images/N_1206_R.jpg,N GT/N_1206_GT_R.png,0
+1206,Non Glaucoma Images/N_1207_R.jpg,N GT/N_1207_GT_R.png,0
+1207,Non Glaucoma Images/N_1208_R.jpg,N GT/N_1208_GT_R.png,0
+1208,Non Glaucoma Images/N_1209_R.jpg,N GT/N_1209_GT_R.png,0
+1209,Non Glaucoma Images/N_1210_R.jpg,N GT/N_1210_GT_R.png,0
+1210,Non Glaucoma Images/N_1211_R.jpg,N GT/N_1211_GT_R.png,0
+1211,Non Glaucoma Images/N_1212_R.jpg,N GT/N_1212_GT_R.png,0
+1212,Non Glaucoma Images/N_1213_R.jpg,N GT/N_1213_GT_R.png,0
+1213,Non Glaucoma Images/N_1214_R.jpg,N GT/N_1214_GT_R.png,0
+1214,Non Glaucoma Images/N_1215_R.jpg,N GT/N_1215_GT_R.png,0
+1215,Non Glaucoma Images/N_1216_R.jpg,N GT/N_1216_GT_R.png,0
+1216,Non Glaucoma Images/N_1217_R.jpg,N GT/N_1217_GT_R.png,0
+1217,Non Glaucoma Images/N_1218_R.jpg,N GT/N_1218_GT_R.png,0
+1218,Non Glaucoma Images/N_1219_R.jpg,N GT/N_1219_GT_R.png,0
+1219,Non Glaucoma Images/N_1220_R.jpg,N GT/N_1220_GT_R.png,0
+1220,Non Glaucoma Images/N_1221_R.jpg,N GT/N_1221_GT_R.png,0
+1221,Non Glaucoma Images/N_1222_R.jpg,N GT/N_1222_GT_R.png,0
+1222,Non Glaucoma Images/N_1223_R.jpg,N GT/N_1223_GT_R.png,0
+1223,Non Glaucoma Images/N_1224_R.jpg,N GT/N_1224_GT_R.png,0
+1224,Non Glaucoma Images/N_1225_R.jpg,N GT/N_1225_GT_R.png,0
+1225,Non Glaucoma Images/N_1226_R.jpg,N GT/N_1226_GT_R.png,0
+1226,Non Glaucoma Images/N_1227_R.jpg,N GT/N_1227_GT_R.png,0
+1227,Non Glaucoma Images/N_1228_R.jpg,N GT/N_1228_GT_R.png,0
+1228,Non Glaucoma Images/N_1229_R.jpg,N GT/N_1229_GT_R.png,0
+1229,Non Glaucoma Images/N_1230_R.jpg,N GT/N_1230_GT_R.png,0
+1230,Non Glaucoma Images/N_1231_R.jpg,N GT/N_1231_GT_R.png,0
+1231,Non Glaucoma Images/N_1232_R.jpg,N GT/N_1232_GT_R.png,0
+1232,Non Glaucoma Images/N_1233_R.jpg,N GT/N_1233_GT_R.png,0
+1233,Non Glaucoma Images/N_1234_R.jpg,N GT/N_1234_GT_R.png,0
+1234,Non Glaucoma Images/N_1235_R.jpg,N GT/N_1235_GT_R.png,0
+1235,Non Glaucoma Images/N_1236_R.jpg,N GT/N_1236_GT_R.png,0
+1236,Non Glaucoma Images/N_1237_R.jpg,N GT/N_1237_GT_R.png,0
+1237,Non Glaucoma Images/N_1238_R.jpg,N GT/N_1238_GT_R.png,0
+1238,Non Glaucoma Images/N_1239_R.jpg,N GT/N_1239_GT_R.png,0
+1239,Non Glaucoma Images/N_1240_R.jpg,N GT/N_1240_GT_R.png,0
+1240,Non Glaucoma Images/N_1241_R.jpg,N GT/N_1241_GT_R.png,0
+1241,Non Glaucoma Images/N_1242_R.jpg,N GT/N_1242_GT_R.png,0
+1242,Non Glaucoma Images/N_1243_R.jpg,N GT/N_1243_GT_R.png,0
+1243,Non Glaucoma Images/N_1244_R.jpg,N GT/N_1244_GT_R.png,0
+1244,Non Glaucoma Images/N_1245_R.jpg,N GT/N_1245_GT_R.png,0
+1245,Non Glaucoma Images/N_1246_R.jpg,N GT/N_1246_GT_R.png,0
+1246,Non Glaucoma Images/N_1247_R.jpg,N GT/N_1247_GT_R.png,0
+1247,Non Glaucoma Images/N_1248_R.jpg,N GT/N_1248_GT_R.png,0
+1248,Non Glaucoma Images/N_1249_R.jpg,N GT/N_1249_GT_R.png,0
+1249,Non Glaucoma Images/N_1250_R.jpg,N GT/N_1250_GT_R.png,0
+1250,Non Glaucoma Images/N_1251_R.jpg,N GT/N_1251_GT_R.png,0
+1251,Non Glaucoma Images/N_1252_R.jpg,N GT/N_1252_GT_R.png,0
+1252,Non Glaucoma Images/N_1253_R.jpg,N GT/N_1253_GT_R.png,0
+1253,Non Glaucoma Images/N_1254_R.jpg,N GT/N_1254_GT_R.png,0
+1254,Non Glaucoma Images/N_1255_R.jpg,N GT/N_1255_GT_R.png,0
+1255,Non Glaucoma Images/N_1256_R.jpg,N GT/N_1256_GT_R.png,0
+1256,Non Glaucoma Images/N_1257_R.jpg,N GT/N_1257_GT_R.png,0
+1257,Non Glaucoma Images/N_1258_R.jpg,N GT/N_1258_GT_R.png,0
+1258,Non Glaucoma Images/N_1259_R.jpg,N GT/N_1259_GT_R.png,0
+1259,Non Glaucoma Images/N_1260_R.jpg,N GT/N_1260_GT_R.png,0
+1260,Non Glaucoma Images/N_1261_R.jpg,N GT/N_1261_GT_R.png,0
+1261,Non Glaucoma Images/N_1262_R.jpg,N GT/N_1262_GT_R.png,0
+1262,Non Glaucoma Images/N_1263_R.jpg,N GT/N_1263_GT_R.png,0
+1263,Non Glaucoma Images/N_1264_R.jpg,N GT/N_1264_GT_R.png,0
+1264,Non Glaucoma Images/N_1265_R.jpg,N GT/N_1265_GT_R.png,0
+1265,Non Glaucoma Images/N_1266_R.jpg,N GT/N_1266_GT_R.png,0
+1266,Non Glaucoma Images/N_1267_R.jpg,N GT/N_1267_GT_R.png,0
+1267,Non Glaucoma Images/N_1268_R.jpg,N GT/N_1268_GT_R.png,0
+1268,Non Glaucoma Images/N_1269_R.jpg,N GT/N_1269_GT_R.png,0
+1269,Non Glaucoma Images/N_1270_R.jpg,N GT/N_1270_GT_R.png,0
+1270,Non Glaucoma Images/N_1271_R.jpg,N GT/N_1271_GT_R.png,0
+1271,Non Glaucoma Images/N_1272_R.jpg,N GT/N_1272_GT_R.png,0
+1272,Non Glaucoma Images/N_1273_R.jpg,N GT/N_1273_GT_R.png,0
+1273,Non Glaucoma Images/N_1274_R.jpg,N GT/N_1274_GT_R.png,0
+1274,Non Glaucoma Images/N_1275_R.jpg,N GT/N_1275_GT_R.png,0
+1275,Non Glaucoma Images/N_1276_R.jpg,N GT/N_1276_GT_R.png,0
+1276,Non Glaucoma Images/N_1277_R.jpg,N GT/N_1277_GT_R.png,0
+1277,Non Glaucoma Images/N_1278_R.jpg,N GT/N_1278_GT_R.png,0
+1278,Non Glaucoma Images/N_1279_R.jpg,N GT/N_1279_GT_R.png,0
+1279,Non Glaucoma Images/N_1280_R.jpg,N GT/N_1280_GT_R.png,0
+1280,Non Glaucoma Images/N_1281_R.jpg,N GT/N_1281_GT_R.png,0
+1281,Non Glaucoma Images/N_1282_R.jpg,N GT/N_1282_GT_R.png,0
+1282,Non Glaucoma Images/N_1283_R.jpg,N GT/N_1283_GT_R.png,0
+1283,Non Glaucoma Images/N_1284_R.jpg,N GT/N_1284_GT_R.png,0
+1284,Non Glaucoma Images/N_1285_R.jpg,N GT/N_1285_GT_R.png,0
+1285,Non Glaucoma Images/N_1286_R.jpg,N GT/N_1286_GT_R.png,0
+1286,Non Glaucoma Images/N_1287_R.jpg,N GT/N_1287_GT_R.png,0
+1287,Non Glaucoma Images/N_1288_R.jpg,N GT/N_1288_GT_R.png,0
+1288,Non Glaucoma Images/N_1289_R.jpg,N GT/N_1289_GT_R.png,0
+1289,Non Glaucoma Images/N_1290_R.jpg,N GT/N_1290_GT_R.png,0
+1290,Non Glaucoma Images/N_1291_R.jpg,N GT/N_1291_GT_R.png,0
+1291,Non Glaucoma Images/N_1292_R.jpg,N GT/N_1292_GT_R.png,0
+1292,Non Glaucoma Images/N_1293_R.jpg,N GT/N_1293_GT_R.png,0
+1293,Non Glaucoma Images/N_1294_R.jpg,N GT/N_1294_GT_R.png,0
+1294,Non Glaucoma Images/N_1295_R.jpg,N GT/N_1295_GT_R.png,0
+1295,Non Glaucoma Images/N_1296_R.jpg,N GT/N_1296_GT_R.png,0
+1296,Non Glaucoma Images/N_1297_R.jpg,N GT/N_1297_GT_R.png,0
+1297,Non Glaucoma Images/N_1298_R.jpg,N GT/N_1298_GT_R.png,0
+1298,Non Glaucoma Images/N_1299_R.jpg,N GT/N_1299_GT_R.png,0
+1299,Non Glaucoma Images/N_1300_R.jpg,N GT/N_1300_GT_R.png,0
+1300,Non Glaucoma Images/N_1301_R.jpg,N GT/N_1301_GT_R.png,0
